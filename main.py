@@ -7,11 +7,11 @@ import io
 import base64
 import nbt.nbt
 
-
 #https://moulberry.codes/auction_averages_lbin/auctionLast.json (not sure wat, mite be useful)
 #https://moulberry.codes/auction_averages_lbin/1day.json (lbin 1 day averages)
 #https://moulberry.codes/auction_averages/3day.json (use for sales)
 #https://moulberry.codes/lowestbin.json (current lbin)
+
 async def fetch_auction_page(session):
   async with session.get(
       "https://api.hypixel.net/skyblock/auctions") as response:
@@ -19,21 +19,24 @@ async def fetch_auction_page(session):
 
 
 async def process_auctions(auctions, present_time):
+  excluded_tags = ["rune",
+                   "travel_scroll"] #very small filter
   decoded_auctions = []
 
   for auction in auctions:
     if auction.get("bin") and present_time - 59000 <= auction.get("start"):
       item_tag = await decodeItem(auction["item_bytes"])
 
-      decoded_auctions.append({
-          "item_name": auction["item_name"],
-          "starting_bid": auction["starting_bid"],
-          "start": auction["start"],
-          "item_tag": item_tag,
-          "category": auction["category"],
-          "rarity": auction["tier"]
-      })
-
+      if all(excluded_tag.lower() not in item_tag.lower()
+             for excluded_tag in excluded_tags):
+        decoded_auctions.append({
+            "item_name": auction["item_name"],
+            "starting_bid": auction["starting_bid"],
+            "start": auction["start"],
+            "item_tag": item_tag,
+            "category": auction["category"],
+            "rarity": auction["tier"]
+        })
   return decoded_auctions
 
 
