@@ -1,1170 +1,262 @@
 [
   {
-    "item_name": "[Lvl 1] Snowman",
-    "starting_bid": 6000000,
-    "start": 1704678093548,
-    "item_tag": "PET",
-    "category": "misc",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "Goldor's Boots",
-    "starting_bid": 2000000,
-    "start": 1704678092942,
-    "item_tag": "TANK_WITHER_BOOTS",
+    "item_name": "Helmet of Divan",
+    "starting_bid": 23900000,
+    "start": 1704712204106,
+    "item_tag": null,
     "category": "armor",
-    "rarity": "LEGENDARY"
+    "rarity": "LEGENDARY",
+    "reforge": "None",
+    "enchantments": "[]"
   },
   {
-    "item_name": "Attribute Shard",
-    "starting_bid": 1990000,
-    "start": 1704678092516,
-    "item_tag": "ATTRIBUTE_SHARD+ATTRIBUTE_MANA_REGENERATION",
-    "category": "misc",
-    "rarity": "COMMON"
+    "item_name": "Speed Ring",
+    "starting_bid": 275000,
+    "start": 1704712202686,
+    "item_tag": null,
+    "category": "accessories",
+    "rarity": "UNCOMMON",
+    "reforge": "superior",
+    "enchantments": "[]"
   },
   {
-    "item_name": "Cheap Tuxedo Oxfords",
-    "starting_bid": 720000,
-    "start": 1704678092284,
-    "item_tag": "CHEAP_TUXEDO_BOOTS",
-    "category": "armor",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "[Lvl 100] Blaze",
-    "starting_bid": 69000000,
-    "start": 1704678092148,
-    "item_tag": "PET",
-    "category": "misc",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "Aurora Staff",
-    "starting_bid": 1298999,
-    "start": 1704678091568,
-    "item_tag": "RUNIC_STAFF",
-    "category": "weapon",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "Magma Lord Fragment",
-    "starting_bid": 3300000,
-    "start": 1704678091250,
-    "item_tag": "MAGMA_LORD_FRAGMENT",
-    "category": "misc",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "End Stone Bow",
-    "starting_bid": 50000,
-    "start": 1704678090894,
-    "item_tag": "END_STONE_BOW",
-    "category": "weapon",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "Ancient Storm's Boots \u272a\u272a\u272a\u272a\u272a\u278b",
-    "starting_bid": 109999999,
-    "start": 1704678090822,
-    "item_tag": "WISE_WITHER_BOOTS",
-    "category": "armor",
-    "rarity": "MYTHIC"
-  },
-  {
-    "item_name": "Pest Repellent MAX",
-    "starting_bid": 300000,
-    "start": 1704678090793,
-    "item_tag": "PEST_REPELLENT_MAX",
-    "category": "misc",
-    "rarity": "RARE"
-  },
-  {
-    "item_name": "Red Claw Egg",
-    "starting_bid": 390000,
-    "start": 1704678090744,
-    "item_tag": "RED_CLAW_EGG",
-    "category": "misc",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "Jumbo Backpack",
-    "starting_bid": 6599999,
-    "start": 1704678090721,
-    "item_tag": "JUMBO_BACKPACK",
-    "category": "misc",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "Aspect of the Dragons",
-    "starting_bid": 999999,
-    "start": 1704678090436,
-    "item_tag": "ASPECT_OF_THE_DRAGON",
-    "category": "weapon",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "Wheel of Fate",
-    "starting_bid": 11990000,
-    "start": 1704678089721,
-    "item_tag": "WHEEL_OF_FATE",
-    "category": "misc",
-    "rarity": "RARE"
-  },
-  {
-    "item_name": "Wither Leggings",
-    "starting_bid": 5500000,
-    "start": 1704678089558,
-    "item_tag": "WITHER_LEGGINGS",
-    "category": "armor",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "Fervor Helmet",
-    "starting_bid": 150000,
-    "start": 1704678089469,
-    "item_tag": "FERVOR_HELMET+ATTRIBUTE_EXPERIENCE+ATTRIBUTE_LIFELINE",
-    "category": "armor",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "\u25c6 End Rune I",
-    "starting_bid": 160000,
-    "start": 1704678088000,
-    "item_tag": "RUNE",
-    "category": "misc",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "[Lvl 1] Endermite",
-    "starting_bid": 2849990,
-    "start": 1704678087919,
-    "item_tag": "PET",
-    "category": "misc",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "Precise Spirit Shortbow \u272a\u272a\u272a\u272a\u272a",
-    "starting_bid": 7999999,
-    "start": 1704678087910,
-    "item_tag": "ITEM_SPIRIT_BOW",
-    "category": "weapon",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "Aspect of the Void",
-    "starting_bid": 5300000,
-    "start": 1704678087906,
-    "item_tag": "ASPECT_OF_THE_VOID",
-    "category": "weapon",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "Harvest Harbinger V Potion",
-    "starting_bid": 2250000,
-    "start": 1704678087868,
-    "item_tag": "POTION",
-    "category": "consumables",
-    "rarity": "RARE"
-  },
-  {
-    "item_name": "Aspect of the End",
-    "starting_bid": 280000,
-    "start": 1704678087728,
-    "item_tag": "ASPECT_OF_THE_END",
-    "category": "weapon",
-    "rarity": "RARE"
-  },
-  {
-    "item_name": "[Lvl 95] Scatha",
-    "starting_bid": 189900000,
-    "start": 1704678087254,
-    "item_tag": "PET",
-    "category": "misc",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "Sturdy Polished Titanium Pickaxe",
-    "starting_bid": 1400000,
-    "start": 1704678086986,
-    "item_tag": "REFINED_TITANIUM_PICKAXE",
-    "category": "misc",
-    "rarity": "RARE"
-  },
-  {
-    "item_name": "Mana Disintegrator",
-    "starting_bid": 400000,
-    "start": 1704678086306,
-    "item_tag": "MANA_DISINTEGRATOR",
-    "category": "misc",
-    "rarity": "RARE"
-  },
-  {
-    "item_name": "Wise Dragon Chestplate",
-    "starting_bid": 900000,
-    "start": 1704678086023,
-    "item_tag": "WISE_DRAGON_CHESTPLATE",
-    "category": "armor",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "Pest Repellent MAX",
-    "starting_bid": 300000,
-    "start": 1704678085939,
-    "item_tag": "PEST_REPELLENT_MAX",
-    "category": "misc",
-    "rarity": "RARE"
-  },
-  {
-    "item_name": "Arachne's Fang",
-    "starting_bid": 490000,
-    "start": 1704678085751,
-    "item_tag": "ARACHNE_FANG",
-    "category": "misc",
-    "rarity": "UNCOMMON"
-  },
-  {
-    "item_name": "Gentle Reaper Scythe",
-    "starting_bid": 28000000,
-    "start": 1704678085579,
-    "item_tag": "REAPER_SCYTHE",
-    "category": "weapon",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "[Lvl 1] Magma Cube",
-    "starting_bid": 21000000,
-    "start": 1704678085500,
-    "item_tag": "PET",
-    "category": "misc",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "Jumbo Backpack",
-    "starting_bid": 6599999,
-    "start": 1704678085326,
-    "item_tag": "JUMBO_BACKPACK",
-    "category": "misc",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "[Lvl 100] Wither Skeleton",
-    "starting_bid": 14299999,
-    "start": 1704678084090,
-    "item_tag": "PET",
-    "category": "misc",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "Red Claw Egg",
-    "starting_bid": 390000,
-    "start": 1704678084019,
-    "item_tag": "RED_CLAW_EGG",
-    "category": "misc",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "Heroic Aspect of the Dragons \u272a",
+    "item_name": "Strengthened Molten Bracelet",
     "starting_bid": 9000000,
-    "start": 1704678083257,
-    "item_tag": "ASPECT_OF_THE_DRAGON",
+    "start": 1704712201038,
+    "item_tag": "MOLTEN_BRACELET+ATTRIBUTE_MANA_REGENERATION+ATTRIBUTE_EXPERIENCE",
+    "category": "misc",
+    "rarity": "LEGENDARY",
+    "reforge": "strengthened",
+    "enchantments": "[]"
+  },
+  {
+    "item_name": "Frozen Blaze Chestplate",
+    "starting_bid": 12000000,
+    "start": 1704712200223,
+    "item_tag": null,
+    "category": "armor",
+    "rarity": "LEGENDARY",
+    "reforge": "None",
+    "enchantments": "[]"
+  },
+  {
+    "item_name": "Ancient Necron's Leggings \u272a\u272a",
+    "starting_bid": 23999999,
+    "start": 1704712199941,
+    "item_tag": null,
+    "category": "armor",
+    "rarity": "LEGENDARY",
+    "reforge": "ancient",
+    "enchantments": "['ultimate_last_stand3', 'rejuvenate5', 'protection5', 'growth5']"
+  },
+  {
+    "item_name": "Treasure Talisman",
+    "starting_bid": 680000,
+    "start": 1704712195255,
+    "item_tag": null,
+    "category": "accessories",
+    "rarity": "RARE",
+    "reforge": "None",
+    "enchantments": "[]"
+  },
+  {
+    "item_name": "Bustling Melon Helmet",
+    "starting_bid": 1500000,
+    "start": 1704712194384,
+    "item_tag": null,
+    "category": "armor",
+    "rarity": "UNCOMMON",
+    "reforge": "bustling",
+    "enchantments": "[]"
+  },
+  {
+    "item_name": "[Lvl 1] Baby Yeti",
+    "starting_bid": 2200000,
+    "start": 1704712194053,
+    "item_tag": "BABY_YETI;3",
+    "category": "misc",
+    "rarity": "EPIC",
+    "reforge": "None",
+    "enchantments": "[]"
+  },
+  {
+    "item_name": "Molten Necklace",
+    "starting_bid": 7530000,
+    "start": 1704712193131,
+    "item_tag": "MOLTEN_NECKLACE+ATTRIBUTE_VETERAN+ATTRIBUTE_BREEZE",
+    "category": "misc",
+    "rarity": "EPIC",
+    "reforge": "None",
+    "enchantments": "[]"
+  },
+  {
+    "item_name": "Glowstone Gauntlet",
+    "starting_bid": 700000,
+    "start": 1704712192826,
+    "item_tag": "GLOWSTONE_GAUNTLET+ATTRIBUTE_DOMINANCE+ATTRIBUTE_MANA_POOL",
+    "category": "misc",
+    "rarity": "RARE",
+    "reforge": "None",
+    "enchantments": "[]"
+  },
+  {
+    "item_name": "Vampire Dentist Relic",
+    "starting_bid": 71000000,
+    "start": 1704712192653,
+    "item_tag": null,
+    "category": "accessories",
+    "rarity": "MYTHIC",
+    "reforge": "None",
+    "enchantments": "[]"
+  },
+  {
+    "item_name": "Jungle Axe",
+    "starting_bid": 14999,
+    "start": 1704712191432,
+    "item_tag": null,
     "category": "weapon",
-    "rarity": "LEGENDARY"
+    "rarity": "UNCOMMON",
+    "reforge": "None",
+    "enchantments": "[]"
   },
   {
-    "item_name": "God Potion",
-    "starting_bid": 500,
-    "start": 1704678083092,
-    "item_tag": "GOD_POTION_2",
-    "category": "misc",
-    "rarity": "SPECIAL"
-  },
-  {
-    "item_name": "Ruby Drill TX-15",
-    "starting_bid": 6200000,
-    "start": 1704678082575,
-    "item_tag": "GEMSTONE_DRILL_1",
-    "category": "misc",
-    "rarity": "RARE"
-  },
-  {
-    "item_name": "Blended Molten Bracelet",
-    "starting_bid": 2300000,
-    "start": 1704678082209,
-    "item_tag": "MOLTEN_BRACELET+ATTRIBUTE_DOMINANCE+ATTRIBUTE_BREEZE",
-    "category": "misc",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "Aspect of the End",
-    "starting_bid": 280000,
-    "start": 1704678081951,
-    "item_tag": "ASPECT_OF_THE_END",
-    "category": "weapon",
-    "rarity": "RARE"
-  },
-  {
-    "item_name": "Sinful Dice",
-    "starting_bid": 28000,
-    "start": 1704678081670,
-    "item_tag": "SINFUL_DICE",
-    "category": "misc",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "Treasure Ring",
-    "starting_bid": 6399900,
-    "start": 1704678081627,
-    "item_tag": "TREASURE_RING",
-    "category": "accessories",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "Glacite Boots",
-    "starting_bid": 50000,
-    "start": 1704678081364,
-    "item_tag": "GLACITE_BOOTS",
+    "item_name": "Boots of Divan",
+    "starting_bid": 21600000,
+    "start": 1704712190761,
+    "item_tag": null,
     "category": "armor",
-    "rarity": "EPIC"
+    "rarity": "LEGENDARY",
+    "reforge": "None",
+    "enchantments": "[]"
   },
   {
-    "item_name": "Bat Artifact",
-    "starting_bid": 4379235,
-    "start": 1704678081250,
-    "item_tag": "BAT_ARTIFACT",
-    "category": "accessories",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "Dragonfade Cloak",
-    "starting_bid": 5999000,
-    "start": 1704678081134,
-    "item_tag": "DRAGONFADE_CLOAK",
+    "item_name": "Greater Backpack",
+    "starting_bid": 622222,
+    "start": 1704712188842,
+    "item_tag": null,
     "category": "misc",
-    "rarity": "EPIC"
+    "rarity": "EPIC",
+    "reforge": "None",
+    "enchantments": "[]"
   },
   {
-    "item_name": "Pest Repellent MAX",
-    "starting_bid": 300000,
-    "start": 1704678081094,
-    "item_tag": "PEST_REPELLENT_MAX",
+    "item_name": "[Lvl 1] Baby Yeti",
+    "starting_bid": 2200000,
+    "start": 1704712186956,
+    "item_tag": "BABY_YETI;3",
     "category": "misc",
-    "rarity": "RARE"
-  },
-  {
-    "item_name": "SkyMart Vacuum",
-    "starting_bid": 500000,
-    "start": 1704678081048,
-    "item_tag": "SKYMART_VACUUM",
-    "category": "misc",
-    "rarity": "COMMON"
-  },
-  {
-    "item_name": "Intimidation Artifact",
-    "starting_bid": 8000000,
-    "start": 1704678080788,
-    "item_tag": "INTIMIDATION_ARTIFACT",
-    "category": "accessories",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "Holly Dye",
-    "starting_bid": 23960000,
-    "start": 1704678080731,
-    "item_tag": "DYE_HOLLY",
-    "category": "misc",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "Jumbo Backpack",
-    "starting_bid": 6599999,
-    "start": 1704678079967,
-    "item_tag": "JUMBO_BACKPACK",
-    "category": "misc",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "Revived Heart",
-    "starting_bid": 4900000,
-    "start": 1704678079964,
-    "item_tag": "REVIVED_HEART",
-    "category": "armor",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "Mana Disintegrator",
-    "starting_bid": 400000,
-    "start": 1704678079822,
-    "item_tag": "MANA_DISINTEGRATOR",
-    "category": "misc",
-    "rarity": "RARE"
-  },
-  {
-    "item_name": "Crimson Boots",
-    "starting_bid": 1200000,
-    "start": 1704678079539,
-    "item_tag": "CRIMSON_BOOTS+ATTRIBUTE_MANA_REGENERATION+ATTRIBUTE_LIFELINE",
-    "category": "armor",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "Wise Dragon Helmet",
-    "starting_bid": 900000,
-    "start": 1704678079411,
-    "item_tag": "WISE_DRAGON_HELMET",
-    "category": "armor",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "Minion Storage X-pender",
-    "starting_bid": 1900000,
-    "start": 1704678079321,
-    "item_tag": "MINION_STORAGE_EXPANDER",
-    "category": "misc",
-    "rarity": "SPECIAL"
+    "rarity": "EPIC",
+    "reforge": "None",
+    "enchantments": "[]"
   },
   {
     "item_name": "Treasure Talisman",
     "starting_bid": 500000,
-    "start": 1704678078800,
-    "item_tag": "TREASURE_TALISMAN",
+    "start": 1704712186919,
+    "item_tag": null,
     "category": "accessories",
-    "rarity": "RARE"
+    "rarity": "RARE",
+    "reforge": "None",
+    "enchantments": "[]"
   },
   {
-    "item_name": "Attribute Shard",
-    "starting_bid": 90000,
-    "start": 1704678078203,
-    "item_tag": "ATTRIBUTE_SHARD+ATTRIBUTE_HUNTER",
-    "category": "misc",
-    "rarity": "COMMON"
-  },
-  {
-    "item_name": "Master Skull - Tier 1",
-    "starting_bid": 900000,
-    "start": 1704678078188,
-    "item_tag": "MASTER_SKULL_TIER_1",
-    "category": "accessories",
-    "rarity": "COMMON"
-  },
-  {
-    "item_name": "God Potion",
-    "starting_bid": 500,
-    "start": 1704678077592,
-    "item_tag": "GOD_POTION_2",
-    "category": "misc",
-    "rarity": "SPECIAL"
-  },
-  {
-    "item_name": "Magnetic Lapis Pickaxe",
-    "starting_bid": 30000,
-    "start": 1704678077339,
-    "item_tag": "LAPIS_PICKAXE",
-    "category": "misc",
-    "rarity": "UNCOMMON"
-  },
-  {
-    "item_name": "Critical Chance Enrichment",
-    "starting_bid": 6799999,
-    "start": 1704678077301,
-    "item_tag": "TALISMAN_ENRICHMENT_CRITICAL_CHANCE",
-    "category": "misc",
-    "rarity": "SPECIAL"
-  },
-  {
-    "item_name": "Ghostly Boots",
-    "starting_bid": 50000,
-    "start": 1704678077120,
-    "item_tag": "GHOST_BOOTS",
-    "category": "armor",
-    "rarity": "RARE"
-  },
-  {
-    "item_name": "Ruby Drill TX-15",
-    "starting_bid": 5000000,
-    "start": 1704678076948,
-    "item_tag": "GEMSTONE_DRILL_1",
-    "category": "misc",
-    "rarity": "RARE"
-  },
-  {
-    "item_name": "Aspect of the End",
-    "starting_bid": 280000,
-    "start": 1704678076215,
-    "item_tag": "ASPECT_OF_THE_END",
+    "item_name": "Suspicious Pooch Sword",
+    "starting_bid": 9500000,
+    "start": 1704712186842,
+    "item_tag": null,
     "category": "weapon",
-    "rarity": "RARE"
+    "rarity": "LEGENDARY",
+    "reforge": "suspicious",
+    "enchantments": "['ultimate_one_for_all1']"
   },
   {
-    "item_name": "\u269a Ancient Shadow Assassin Boots \u272a\u272a\u272a\u272a\u272a",
-    "starting_bid": 4999999,
-    "start": 1704678076109,
-    "item_tag": "STARRED_SHADOW_ASSASSIN_BOOTS",
+    "item_name": "Fervor Chestplate",
+    "starting_bid": 5200000,
+    "start": 1704712185982,
+    "item_tag": "FERVOR_CHESTPLATE+ATTRIBUTE_VETERAN+ATTRIBUTE_ARACHNO_RESISTANCE",
     "category": "armor",
-    "rarity": "MYTHIC"
+    "rarity": "LEGENDARY",
+    "reforge": "None",
+    "enchantments": "[]"
   },
   {
-    "item_name": "\u269a Ancient Shadow Assassin Boots \u272a\u272a\u272a\u272a\u272a",
-    "starting_bid": 3333330,
-    "start": 1704678075856,
-    "item_tag": "STARRED_SHADOW_ASSASSIN_BOOTS",
+    "item_name": "\u269a Reinforced Shadow Assassin Leggings \u272a\u272a\u272a\u272a\u272a",
+    "starting_bid": 14999000,
+    "start": 1704712185895,
+    "item_tag": null,
     "category": "armor",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "Arachne's Fang",
-    "starting_bid": 500000,
-    "start": 1704678075094,
-    "item_tag": "ARACHNE_FANG",
-    "category": "misc",
-    "rarity": "UNCOMMON"
+    "rarity": "LEGENDARY",
+    "reforge": "reinforced",
+    "enchantments": "['thorns3', 'rejuvenate3', 'growth5', 'protection5']"
   },
   {
     "item_name": "Teleport Pad",
-    "starting_bid": 10000,
-    "start": 1704678073787,
-    "item_tag": "TELEPORT_PAD",
+    "starting_bid": 100000,
+    "start": 1704712185755,
+    "item_tag": null,
     "category": "blocks",
-    "rarity": "UNCOMMON"
+    "rarity": "UNCOMMON",
+    "reforge": "None",
+    "enchantments": "[]"
   },
   {
-    "item_name": "Lumberjack's Treecapitator",
-    "starting_bid": 2500000,
-    "start": 1704678073259,
-    "item_tag": "TREECAPITATOR_AXE",
-    "category": "weapon",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "Lava Talisman",
-    "starting_bid": 50000,
-    "start": 1704678072997,
-    "item_tag": "LAVA_TALISMAN",
-    "category": "accessories",
-    "rarity": "UNCOMMON"
-  },
-  {
-    "item_name": "InfiniVacuum\u2122",
-    "starting_bid": 9800000,
-    "start": 1704678072927,
-    "item_tag": "INFINI_VACUUM",
-    "category": "misc",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "Aspect of the Void",
-    "starting_bid": 11000000,
-    "start": 1704678072751,
-    "item_tag": "ASPECT_OF_THE_VOID",
-    "category": "weapon",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "Very Wise Dragon Helmet \u272a\u272a\u272a",
-    "starting_bid": 1000000,
-    "start": 1704678072705,
-    "item_tag": "WISE_DRAGON_HELMET",
-    "category": "armor",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "Archfiend Dice",
-    "starting_bid": 5199999,
-    "start": 1704678072063,
-    "item_tag": "ARCHFIEND_DICE",
-    "category": "misc",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "Glistening Vanquished Glowstone Gauntlet",
-    "starting_bid": 4800000,
-    "start": 1704678070919,
-    "item_tag": "VANQUISHED_GLOWSTONE_GAUNTLET+ATTRIBUTE_LIFE_REGENERATION+ATTRIBUTE_SPEED",
-    "category": "misc",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "Critical Chance Enrichment",
-    "starting_bid": 6799999,
-    "start": 1704678070753,
-    "item_tag": "TALISMAN_ENRICHMENT_CRITICAL_CHANCE",
-    "category": "misc",
-    "rarity": "SPECIAL"
-  },
-  {
-    "item_name": "Aspect of the End",
-    "starting_bid": 280000,
-    "start": 1704678070399,
-    "item_tag": "ASPECT_OF_THE_END",
-    "category": "weapon",
-    "rarity": "RARE"
-  },
-  {
-    "item_name": "Teleport Pad",
-    "starting_bid": 20000,
-    "start": 1704678069246,
-    "item_tag": "TELEPORT_PAD",
-    "category": "blocks",
-    "rarity": "UNCOMMON"
-  },
-  {
-    "item_name": "Clean Skeleton Grunt Boots",
-    "starting_bid": 20000,
-    "start": 1704678068453,
-    "item_tag": "SKELETON_GRUNT_BOOTS",
-    "category": "armor",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "Deepterror Mixin",
-    "starting_bid": 2900000,
-    "start": 1704678067931,
-    "item_tag": "DEEPTERROR_MIXIN",
-    "category": "misc",
-    "rarity": "RARE"
-  },
-  {
-    "item_name": "Adaptive Belt",
-    "starting_bid": 800000,
-    "start": 1704678067583,
-    "item_tag": "ADAPTIVE_BELT",
-    "category": "misc",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "Blaze Belt",
+    "item_name": "Flushed Sloth Hat of Celebration",
     "starting_bid": 3000000,
-    "start": 1704678067114,
-    "item_tag": "BLAZE_BELT+ATTRIBUTE_DOMINANCE+ATTRIBUTE_SPEED",
-    "category": "misc",
-    "rarity": "RARE"
+    "start": 1704712185412,
+    "item_tag": null,
+    "category": "accessories",
+    "rarity": "SPECIAL",
+    "reforge": "None",
+    "enchantments": "[]"
   },
   {
-    "item_name": "Reaper Scythe",
-    "starting_bid": 32500000,
-    "start": 1704678065822,
-    "item_tag": "REAPER_SCYTHE",
+    "item_name": "Cocoa Chopper",
+    "starting_bid": 19000000,
+    "start": 1704712185049,
+    "item_tag": null,
     "category": "weapon",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "Necron's Leggings",
-    "starting_bid": 18700000,
-    "start": 1704678065618,
-    "item_tag": "POWER_WITHER_LEGGINGS",
-    "category": "armor",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "Critical Chance Enrichment",
-    "starting_bid": 6799999,
-    "start": 1704678065602,
-    "item_tag": "TALISMAN_ENRICHMENT_CRITICAL_CHANCE",
-    "category": "misc",
-    "rarity": "SPECIAL"
-  },
-  {
-    "item_name": "Aurora Helmet",
-    "starting_bid": 200000,
-    "start": 1704678065427,
-    "item_tag": "AURORA_HELMET+ATTRIBUTE_LIFE_REGENERATION+ATTRIBUTE_ARACHNO_RESISTANCE",
-    "category": "armor",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "[Lvl 1] Ammonite",
-    "starting_bid": 995000,
-    "start": 1704678065083,
-    "item_tag": "PET",
-    "category": "misc",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "Fierce Shadow Assassin Boots",
-    "starting_bid": 599000,
-    "start": 1704678064935,
-    "item_tag": "SHADOW_ASSASSIN_BOOTS",
-    "category": "armor",
-    "rarity": "EPIC"
+    "rarity": "EPIC",
+    "reforge": "None",
+    "enchantments": "['turbo_coco5', 'efficiency5', 'sunder6', 'cultivating6', 'dedication3', 'replenish1']"
   },
   {
     "item_name": "Crimson Chestplate",
-    "starting_bid": 24500000,
-    "start": 1704678064647,
-    "item_tag": "CRIMSON_CHESTPLATE+ATTRIBUTE_VETERAN+ATTRIBUTE_DOMINANCE",
+    "starting_bid": 7222222,
+    "start": 1704712184896,
+    "item_tag": "CRIMSON_CHESTPLATE+ATTRIBUTE_LIFE_REGENERATION+ATTRIBUTE_LIFELINE",
     "category": "armor",
-    "rarity": "LEGENDARY"
+    "rarity": "LEGENDARY",
+    "reforge": "None",
+    "enchantments": "[]"
   },
   {
-    "item_name": "Personal Compactor 7000",
-    "starting_bid": 3390000,
-    "start": 1704678064621,
-    "item_tag": "PERSONAL_COMPACTOR_7000",
-    "category": "accessories",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "Etherwarp Merger",
-    "starting_bid": 191000,
-    "start": 1704678064536,
-    "item_tag": "ETHERWARP_MERGER",
-    "category": "misc",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "God Potion",
-    "starting_bid": 1750000,
-    "start": 1704678064274,
-    "item_tag": "GOD_POTION_2",
-    "category": "misc",
-    "rarity": "SPECIAL"
-  },
-  {
-    "item_name": "Lava Talisman",
-    "starting_bid": 50000,
-    "start": 1704678064233,
-    "item_tag": "LAVA_TALISMAN",
-    "category": "accessories",
-    "rarity": "UNCOMMON"
-  },
-  {
-    "item_name": "Hoe of Greatest Tilling",
-    "starting_bid": 2000000,
-    "start": 1704678063791,
-    "item_tag": "HOE_OF_GREATEST_TILLING",
-    "category": "misc",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "Kat Flower",
-    "starting_bid": 500000,
-    "start": 1704678063739,
-    "item_tag": "KAT_FLOWER",
-    "category": "blocks",
-    "rarity": "SPECIAL"
-  },
-  {
-    "item_name": "God Potion",
-    "starting_bid": 1894993,
-    "start": 1704678063245,
-    "item_tag": "GOD_POTION_2",
-    "category": "misc",
-    "rarity": "SPECIAL"
-  },
-  {
-    "item_name": "Festive Slug Boots",
-    "starting_bid": 4000000,
-    "start": 1704678063095,
-    "item_tag": "SLUG_BOOTS+ATTRIBUTE_BLAZING_FORTUNE+ATTRIBUTE_FISHING_EXPERIENCE",
-    "category": "armor",
-    "rarity": "RARE"
-  },
-  {
-    "item_name": "Clean Ember Boots",
-    "starting_bid": 2800000,
-    "start": 1704678062719,
-    "item_tag": "EMBER_BOOTS",
-    "category": "armor",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "Glistening Vanquished Glowstone Gauntlet",
-    "starting_bid": 4800000,
-    "start": 1704678061986,
-    "item_tag": "VANQUISHED_GLOWSTONE_GAUNTLET+ATTRIBUTE_BLAZING_RESISTANCE+ATTRIBUTE_ENDER_RESISTANCE",
-    "category": "misc",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "Ancient Storm's Leggings \u272a\u272a\u272a\u272a\u272a\u278a",
-    "starting_bid": 79999999,
-    "start": 1704678061751,
-    "item_tag": "WISE_WITHER_LEGGINGS",
-    "category": "armor",
-    "rarity": "MYTHIC"
-  },
-  {
-    "item_name": "Sharp Livid Dagger",
-    "starting_bid": 7200000,
-    "start": 1704678060549,
-    "item_tag": "LIVID_DAGGER",
+    "item_name": "Jungle Axe",
+    "starting_bid": 14999,
+    "start": 1704712184799,
+    "item_tag": null,
     "category": "weapon",
-    "rarity": "LEGENDARY"
+    "rarity": "UNCOMMON",
+    "reforge": "None",
+    "enchantments": "[]"
   },
   {
-    "item_name": "Aurora Leggings",
+    "item_name": "Glowstone Gauntlet",
+    "starting_bid": 700000,
+    "start": 1704712184401,
+    "item_tag": "GLOWSTONE_GAUNTLET+ATTRIBUTE_MANA_REGENERATION+ATTRIBUTE_FORTITUDE",
+    "category": "misc",
+    "rarity": "RARE",
+    "reforge": "None",
+    "enchantments": "[]"
+  },
+  {
+    "item_name": "Foraging Exp Boost",
     "starting_bid": 2500000,
-    "start": 1704678060236,
-    "item_tag": "AURORA_LEGGINGS+ATTRIBUTE_BLAZING_RESISTANCE+ATTRIBUTE_BREEZE",
-    "category": "armor",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "Gemstone Fuel Tank",
-    "starting_bid": 46950000,
-    "start": 1704678058726,
-    "item_tag": "GEMSTONE_FUEL_TANK",
-    "category": "misc",
-    "rarity": "RARE"
-  },
-  {
-    "item_name": "Necron's Leggings",
-    "starting_bid": 18700000,
-    "start": 1704678058721,
-    "item_tag": "POWER_WITHER_LEGGINGS",
-    "category": "armor",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "Giant Frozen Blaze Helmet \u272a\u272a\u272a\u272a\u272a",
-    "starting_bid": 14200000,
-    "start": 1704678058615,
-    "item_tag": "FROZEN_BLAZE_HELMET",
-    "category": "armor",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "Attribute Shard",
-    "starting_bid": 999000,
-    "start": 1704678058365,
-    "item_tag": "ATTRIBUTE_SHARD+ATTRIBUTE_FISHING_EXPERIENCE",
-    "category": "misc",
-    "rarity": "COMMON"
-  },
-  {
-    "item_name": "Spider Talisman",
-    "starting_bid": 75000,
-    "start": 1704678058179,
-    "item_tag": "SPIDER_TALISMAN",
-    "category": "accessories",
-    "rarity": "UNCOMMON"
-  },
-  {
-    "item_name": "Pest Repellent MAX",
-    "starting_bid": 299999,
-    "start": 1704678058175,
-    "item_tag": "PEST_REPELLENT_MAX",
-    "category": "misc",
-    "rarity": "RARE"
-  },
-  {
-    "item_name": "Reaper Scythe",
-    "starting_bid": 32500000,
-    "start": 1704678057948,
-    "item_tag": "REAPER_SCYTHE",
+    "start": 1704712184162,
+    "item_tag": null,
     "category": "weapon",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "\u25c6 Clouds Rune I",
-    "starting_bid": 24000,
-    "start": 1704678057728,
-    "item_tag": "RUNE",
-    "category": "misc",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "[Lvl 76] Black Cat",
-    "starting_bid": 50000000,
-    "start": 1704678057248,
-    "item_tag": "PET",
-    "category": "misc",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "God Potion",
-    "starting_bid": 1894998,
-    "start": 1704678057148,
-    "item_tag": "GOD_POTION_2",
-    "category": "misc",
-    "rarity": "SPECIAL"
-  },
-  {
-    "item_name": "SkyMart Vacuum",
-    "starting_bid": 500000,
-    "start": 1704678056649,
-    "item_tag": "SKYMART_VACUUM",
-    "category": "misc",
-    "rarity": "COMMON"
-  },
-  {
-    "item_name": "Green Thumb Gauss Carrot Hoe",
-    "starting_bid": 11000000,
-    "start": 1704678056322,
-    "item_tag": "THEORETICAL_HOE_CARROT_2",
-    "category": "misc",
-    "rarity": "RARE"
-  },
-  {
-    "item_name": "Wise Dragon Helmet",
-    "starting_bid": 8980000,
-    "start": 1704678056317,
-    "item_tag": "WISE_DRAGON_HELMET",
-    "category": "armor",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "[Lvl 1] Hound",
-    "starting_bid": 3500000,
-    "start": 1704678055991,
-    "item_tag": "PET",
-    "category": "misc",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "Pest Repellent MAX",
-    "starting_bid": 299999,
-    "start": 1704678055959,
-    "item_tag": "PEST_REPELLENT_MAX",
-    "category": "misc",
-    "rarity": "RARE"
-  },
-  {
-    "item_name": "Superior Dragon Chestplate",
-    "starting_bid": 8300000,
-    "start": 1704678055643,
-    "item_tag": "SUPERIOR_DRAGON_CHESTPLATE",
-    "category": "armor",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "\u269a Withered Shadow Fury \u272a\u272a\u272a\u272a\u272a",
-    "starting_bid": 90000000,
-    "start": 1704678055016,
-    "item_tag": "STARRED_SHADOW_FURY",
-    "category": "weapon",
-    "rarity": "MYTHIC"
-  },
-  {
-    "item_name": "[Lvl 1] Ammonite",
-    "starting_bid": 996000,
-    "start": 1704678054782,
-    "item_tag": "PET",
-    "category": "misc",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "Minion Storage X-pender",
-    "starting_bid": 1900000,
-    "start": 1704678054739,
-    "item_tag": "MINION_STORAGE_EXPANDER",
-    "category": "misc",
-    "rarity": "SPECIAL"
-  },
-  {
-    "item_name": "Aspect of the End",
-    "starting_bid": 280000,
-    "start": 1704678054550,
-    "item_tag": "ASPECT_OF_THE_END",
-    "category": "weapon",
-    "rarity": "RARE"
-  },
-  {
-    "item_name": "Builder's Ruler",
-    "starting_bid": 179000,
-    "start": 1704678054201,
-    "item_tag": "BUILDERS_RULER",
-    "category": "misc",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "Aspect of the End",
-    "starting_bid": 600000,
-    "start": 1704678054148,
-    "item_tag": "ASPECT_OF_THE_END",
-    "category": "weapon",
-    "rarity": "RARE"
-  },
-  {
-    "item_name": "Fel Sword",
-    "starting_bid": 230000,
-    "start": 1704678054052,
-    "item_tag": "FEL_SWORD",
-    "category": "weapon",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "\u25c6 White Spiral Rune I",
-    "starting_bid": 10000,
-    "start": 1704678053907,
-    "item_tag": "RUNE",
-    "category": "misc",
-    "rarity": "UNCOMMON"
-  },
-  {
-    "item_name": "Velvet Top Hat",
-    "starting_bid": 69999,
-    "start": 1704678053076,
-    "item_tag": "VELVET_TOP_HAT",
-    "category": "armor",
-    "rarity": "RARE"
-  },
-  {
-    "item_name": "[Lvl 65] Enderman",
-    "starting_bid": 5750000,
-    "start": 1704678052079,
-    "item_tag": "PET",
-    "category": "misc",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "Very Wise Dragon Boots \u272a\u272a\u272a",
-    "starting_bid": 1549451,
-    "start": 1704678051003,
-    "item_tag": "WISE_DRAGON_BOOTS",
-    "category": "armor",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "Slow and Groovy Vinyl",
-    "starting_bid": 39999,
-    "start": 1704678048696,
-    "item_tag": "VINYL_SLOW_AND_GROOVY",
-    "category": "misc",
-    "rarity": "UNCOMMON"
-  },
-  {
-    "item_name": "Light Skeletor Helmet",
-    "starting_bid": 200000,
-    "start": 1704678047731,
-    "item_tag": "SKELETOR_HELMET",
-    "category": "armor",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "[Lvl 100] Silverfish",
-    "starting_bid": 5500000,
-    "start": 1704678047632,
-    "item_tag": "PET",
-    "category": "misc",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "Aspect of the End",
-    "starting_bid": 280000,
-    "start": 1704678047602,
-    "item_tag": "ASPECT_OF_THE_END",
-    "category": "weapon",
-    "rarity": "RARE"
-  },
-  {
-    "item_name": "Travel Scroll to the Gold Mine",
-    "starting_bid": 690000,
-    "start": 1704678047450,
-    "item_tag": "MINING_1_TRAVEL_SCROLL",
-    "category": "misc",
-    "rarity": "RARE"
-  },
-  {
-    "item_name": "Shadow Assassin Boots",
-    "starting_bid": 599000,
-    "start": 1704678046804,
-    "item_tag": "SHADOW_ASSASSIN_BOOTS",
-    "category": "armor",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "Minion Storage X-pender",
-    "starting_bid": 1900000,
-    "start": 1704678046597,
-    "item_tag": "MINION_STORAGE_EXPANDER",
-    "category": "misc",
-    "rarity": "SPECIAL"
-  },
-  {
-    "item_name": "Bat Artifact",
-    "starting_bid": 4377023,
-    "start": 1704678046402,
-    "item_tag": "BAT_ARTIFACT",
-    "category": "accessories",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "Amber-polished Drill Engine",
-    "starting_bid": 136400000,
-    "start": 1704678046344,
-    "item_tag": "AMBER_POLISHED_DRILL_ENGINE",
-    "category": "misc",
-    "rarity": "RARE"
-  },
-  {
-    "item_name": "Cicada Symphony Vinyl",
-    "starting_bid": 44899,
-    "start": 1704678045983,
-    "item_tag": "VINYL_CICADA_SYMPHONY",
-    "category": "misc",
-    "rarity": "UNCOMMON"
-  },
-  {
-    "item_name": "Aspect of the End",
-    "starting_bid": 600000,
-    "start": 1704678045559,
-    "item_tag": "ASPECT_OF_THE_END",
-    "category": "weapon",
-    "rarity": "RARE"
-  },
-  {
-    "item_name": "[Lvl 85] Armadillo",
-    "starting_bid": 6000000,
-    "start": 1704678045557,
-    "item_tag": "PET",
-    "category": "misc",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "\u25c6 Couture Rune I",
-    "starting_bid": 500000,
-    "start": 1704678045148,
-    "item_tag": "RUNE",
-    "category": "misc",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "Builder's Ruler",
-    "starting_bid": 179000,
-    "start": 1704678044944,
-    "item_tag": "BUILDERS_RULER",
-    "category": "misc",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "Fervor Leggings",
-    "starting_bid": 99000,
-    "start": 1704678044678,
-    "item_tag": "FERVOR_LEGGINGS+ATTRIBUTE_FORTITUDE+ATTRIBUTE_SPEED",
-    "category": "armor",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "Crimson Leggings",
-    "starting_bid": 600000,
-    "start": 1704678044544,
-    "item_tag": "CRIMSON_LEGGINGS+ATTRIBUTE_LIFELINE+ATTRIBUTE_UNDEAD_RESISTANCE",
-    "category": "armor",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "Red Claw Artifact",
-    "starting_bid": 8710000,
-    "start": 1704678043850,
-    "item_tag": "RED_CLAW_ARTIFACT",
-    "category": "accessories",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "Crimson Chestplate",
-    "starting_bid": 7000000,
-    "start": 1704678043593,
-    "item_tag": "CRIMSON_CHESTPLATE+ATTRIBUTE_EXPERIENCE+ATTRIBUTE_LIFELINE",
-    "category": "armor",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "God Potion",
-    "starting_bid": 1894993,
-    "start": 1704678043153,
-    "item_tag": "GOD_POTION_2",
-    "category": "misc",
-    "rarity": "SPECIAL"
+    "rarity": "EPIC",
+    "reforge": "None",
+    "enchantments": "[]"
   }
 ]
