@@ -1,1058 +1,890 @@
 [
   {
-    "item_name": "[Lvl 100] Mithril Golem",
-    "starting_bid": 10900000,
-    "start": 1704681393504,
+    "item_name": "Scythe Blade",
+    "starting_bid": 7800000,
+    "start": 1704685173470,
+    "item_tag": "SCYTHE_BLADE",
+    "category": "misc",
+    "rarity": "LEGENDARY"
+  },
+  {
+    "item_name": "Shark Scale Chestplate",
+    "starting_bid": 1999999,
+    "start": 1704685173462,
+    "item_tag": "SHARK_SCALE_CHESTPLATE",
+    "category": "armor",
+    "rarity": "LEGENDARY"
+  },
+  {
+    "item_name": "Brilliant Molten Cloak",
+    "starting_bid": 1900000,
+    "start": 1704685173449,
+    "item_tag": "MOLTEN_CLOAK+ATTRIBUTE_MANA_REGENERATION+ATTRIBUTE_ENDER_RESISTANCE",
+    "category": "misc",
+    "rarity": "EPIC"
+  },
+  {
+    "item_name": "DynaMITES Vinyl",
+    "starting_bid": 40000,
+    "start": 1704685172824,
+    "item_tag": "VINYL_DYNAMITES",
+    "category": "misc",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "item_name": "[Lvl 1] Armadillo",
+    "starting_bid": 4000,
+    "start": 1704685172798,
     "item_tag": "PET",
     "category": "misc",
-    "rarity": "LEGENDARY"
+    "rarity": "COMMON"
   },
   {
-    "item_name": "Gabagool the Fish",
-    "starting_bid": 25999999,
-    "start": 1704681393326,
-    "item_tag": "GABAGOOL_THE_FISH",
-    "category": "consumables",
-    "rarity": "SPECIAL"
-  },
-  {
-    "item_name": "Nether Artifact",
-    "starting_bid": 74000000,
-    "start": 1704681392836,
-    "item_tag": "NETHER_ARTIFACT",
-    "category": "accessories",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "Wise Zombie Soldier Chestplate",
-    "starting_bid": 28000,
-    "start": 1704681392737,
-    "item_tag": "ZOMBIE_SOLDIER_CHESTPLATE",
-    "category": "armor",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "Pickonimbus 2000",
-    "starting_bid": 386000,
-    "start": 1704681392468,
-    "item_tag": "PICKONIMBUS",
-    "category": "misc",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "God Potion",
-    "starting_bid": 500,
-    "start": 1704681392054,
-    "item_tag": "GOD_POTION_2",
-    "category": "misc",
-    "rarity": "SPECIAL"
-  },
-  {
-    "item_name": "Heat Core",
-    "starting_bid": 4149999,
-    "start": 1704681391929,
-    "item_tag": "HEAT_CORE",
-    "category": "misc",
-    "rarity": "SPECIAL"
-  },
-  {
-    "item_name": "Dirty Soul Whip",
-    "starting_bid": 16500000,
-    "start": 1704681391830,
-    "item_tag": "SOUL_WHIP",
-    "category": "weapon",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "\u269a Heroic Spirit Sceptre \u272a\u272a\u272a\u272a",
-    "starting_bid": 22999000,
-    "start": 1704681391709,
-    "item_tag": "STARRED_BAT_WAND",
-    "category": "weapon",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "Red Claw Artifact",
-    "starting_bid": 8700000,
-    "start": 1704681391659,
-    "item_tag": "RED_CLAW_ARTIFACT",
-    "category": "accessories",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "Arachne Fragment",
-    "starting_bid": 15000,
-    "start": 1704681391570,
-    "item_tag": "ARACHNE_FRAGMENT",
+    "item_name": "Magma Necklace",
+    "starting_bid": 49000,
+    "start": 1704685172003,
+    "item_tag": "MAGMA_NECKLACE+ATTRIBUTE_BLAZING_RESISTANCE+ATTRIBUTE_SPEED",
     "category": "misc",
     "rarity": "RARE"
   },
   {
-    "item_name": "Reaper Scythe",
-    "starting_bid": 27000000,
-    "start": 1704681391103,
-    "item_tag": "REAPER_SCYTHE",
-    "category": "weapon",
+    "item_name": "Arachne's Fang",
+    "starting_bid": 400000,
+    "start": 1704685170833,
+    "item_tag": "ARACHNE_FANG",
+    "category": "misc",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "item_name": "Rodent Revolution Vinyl",
+    "starting_bid": 40000,
+    "start": 1704685170110,
+    "item_tag": "VINYL_RODENT_REVOLUTION",
+    "category": "misc",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "item_name": "[Lvl 1] Horse",
+    "starting_bid": 175000,
+    "start": 1704685169595,
+    "item_tag": "PET",
+    "category": "misc",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "item_name": "Waxed Ghast Cloak",
+    "starting_bid": 170000,
+    "start": 1704685169085,
+    "item_tag": "GHAST_CLOAK+ATTRIBUTE_BLAZING_RESISTANCE+ATTRIBUTE_LIFELINE",
+    "category": "misc",
+    "rarity": "RARE"
+  },
+  {
+    "item_name": "Small Backpack",
+    "starting_bid": 60000,
+    "start": 1704685168638,
+    "item_tag": "SMALL_BACKPACK",
+    "category": "misc",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "item_name": "Shark Scale Leggings",
+    "starting_bid": 1999999,
+    "start": 1704685167887,
+    "item_tag": "SHARK_SCALE_LEGGINGS",
+    "category": "armor",
     "rarity": "LEGENDARY"
   },
   {
+    "item_name": "Combat Exp Boost",
+    "starting_bid": 99000,
+    "start": 1704685167112,
+    "item_tag": "PET_ITEM_COMBAT_SKILL_BOOST_UNCOMMON",
+    "category": "weapon",
+    "rarity": "UNCOMMON"
+  },
+  {
     "item_name": "Glacite Chestplate",
-    "starting_bid": 250000,
-    "start": 1704681390539,
+    "starting_bid": 20000,
+    "start": 1704685166159,
     "item_tag": "GLACITE_CHESTPLATE",
     "category": "armor",
     "rarity": "EPIC"
   },
   {
-    "item_name": "Implosion Belt",
-    "starting_bid": 1900000,
-    "start": 1704681390392,
-    "item_tag": "IMPLOSION_BELT+ATTRIBUTE_MANA_POOL+ATTRIBUTE_UNDEAD_RESISTANCE",
-    "category": "misc",
-    "rarity": "EPIC"
+    "item_name": "Zombie Ring",
+    "starting_bid": 70000,
+    "start": 1704685166011,
+    "item_tag": "ZOMBIE_RING",
+    "category": "accessories",
+    "rarity": "UNCOMMON"
   },
   {
-    "item_name": "Arachne Fragment",
-    "starting_bid": 15000,
-    "start": 1704681389084,
-    "item_tag": "ARACHNE_FRAGMENT",
+    "item_name": "Magma Necklace",
+    "starting_bid": 50000,
+    "start": 1704685165832,
+    "item_tag": "MAGMA_NECKLACE+ATTRIBUTE_SPEED+ATTRIBUTE_UNDEAD_RESISTANCE",
     "category": "misc",
     "rarity": "RARE"
   },
   {
+    "item_name": "Giant Goldor's Leggings \u272a\u272a\u272a\u272a\u272a",
+    "starting_bid": 17000000,
+    "start": 1704685164793,
+    "item_tag": "TANK_WITHER_LEGGINGS",
+    "category": "armor",
+    "rarity": "LEGENDARY"
+  },
+  {
+    "item_name": "Wither Chestplate",
+    "starting_bid": 10900000,
+    "start": 1704685163376,
+    "item_tag": "WITHER_CHESTPLATE",
+    "category": "armor",
+    "rarity": "LEGENDARY"
+  },
+  {
+    "item_name": "Small Backpack",
+    "starting_bid": 60000,
+    "start": 1704685162919,
+    "item_tag": "SMALL_BACKPACK",
+    "category": "misc",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "item_name": "God Potion",
+    "starting_bid": 1899999,
+    "start": 1704685160375,
+    "item_tag": "GOD_POTION_2",
+    "category": "misc",
+    "rarity": "SPECIAL"
+  },
+  {
+    "item_name": "Goblin Helmet",
+    "starting_bid": 12500,
+    "start": 1704685160346,
+    "item_tag": "GOBLIN_HELMET",
+    "category": "armor",
+    "rarity": "RARE"
+  },
+  {
+    "item_name": "Suspicious Bouquet of Lies \u272a\u272a\u272a\u272a\u272a",
+    "starting_bid": 20500000,
+    "start": 1704685160336,
+    "item_tag": "BOUQUET_OF_LIES",
+    "category": "weapon",
+    "rarity": "LEGENDARY"
+  },
+  {
+    "item_name": "Pitchin' Inferno Rod",
+    "starting_bid": 90000000,
+    "start": 1704685159700,
+    "item_tag": "INFERNO_ROD+ATTRIBUTE_DOUBLE_HOOK+ATTRIBUTE_FISHING_SPEED",
+    "category": "misc",
+    "rarity": "LEGENDARY"
+  },
+  {
+    "item_name": "Agarimoo Artifact",
+    "starting_bid": 7500000,
+    "start": 1704685159650,
+    "item_tag": "AGARIMOO_ARTIFACT",
+    "category": "accessories",
+    "rarity": "RARE"
+  },
+  {
+    "item_name": "Kat Flower",
+    "starting_bid": 599000,
+    "start": 1704685158935,
+    "item_tag": "KAT_FLOWER",
+    "category": "blocks",
+    "rarity": "SPECIAL"
+  },
+  {
+    "item_name": "Wise Sorrow Leggings",
+    "starting_bid": 6300000,
+    "start": 1704685158816,
+    "item_tag": "SORROW_LEGGINGS",
+    "category": "armor",
+    "rarity": "LEGENDARY"
+  },
+  {
+    "item_name": "Mithril Drill SX-R226",
+    "starting_bid": 6000000,
+    "start": 1704685158665,
+    "item_tag": "MITHRIL_DRILL_1",
+    "category": "misc",
+    "rarity": "RARE"
+  },
+  {
+    "item_name": "Kat Flower",
+    "starting_bid": 490000,
+    "start": 1704685158631,
+    "item_tag": "KAT_FLOWER",
+    "category": "blocks",
+    "rarity": "SPECIAL"
+  },
+  {
+    "item_name": "Heat Core",
+    "starting_bid": 3999999,
+    "start": 1704685158172,
+    "item_tag": "HEAT_CORE",
+    "category": "misc",
+    "rarity": "SPECIAL"
+  },
+  {
+    "item_name": "Small Backpack",
+    "starting_bid": 60000,
+    "start": 1704685157109,
+    "item_tag": "SMALL_BACKPACK",
+    "category": "misc",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "item_name": "Handy Blood Chalice",
+    "starting_bid": 1300000,
+    "start": 1704685156978,
+    "item_tag": "HANDY_BLOOD_CHALICE",
+    "category": "accessories",
+    "rarity": "COMMON"
+  },
+  {
+    "item_name": "[Lvl 44] Bal",
+    "starting_bid": 27400000,
+    "start": 1704685156704,
+    "item_tag": "PET",
+    "category": "misc",
+    "rarity": "LEGENDARY"
+  },
+  {
+    "item_name": "Red Claw Egg",
+    "starting_bid": 300000,
+    "start": 1704685156093,
+    "item_tag": "RED_CLAW_EGG",
+    "category": "misc",
+    "rarity": "EPIC"
+  },
+  {
+    "item_name": "Mastiff Leggings",
+    "starting_bid": 2000000,
+    "start": 1704685155888,
+    "item_tag": "MASTIFF_LEGGINGS",
+    "category": "armor",
+    "rarity": "EPIC"
+  },
+  {
+    "item_name": "\u269a Fierce Shadow Assassin Leggings \u272a\u272a\u272a\u272a",
+    "starting_bid": 6000000,
+    "start": 1704685155575,
+    "item_tag": "STARRED_SHADOW_ASSASSIN_LEGGINGS",
+    "category": "armor",
+    "rarity": "LEGENDARY"
+  },
+  {
+    "item_name": "Final Destination Helmet",
+    "starting_bid": 6700000,
+    "start": 1704685155343,
+    "item_tag": "FINAL_DESTINATION_HELMET",
+    "category": "armor",
+    "rarity": "LEGENDARY"
+  },
+  {
+    "item_name": "Young Dragon Boots",
+    "starting_bid": 285000,
+    "start": 1704685154573,
+    "item_tag": "YOUNG_DRAGON_BOOTS",
+    "category": "armor",
+    "rarity": "LEGENDARY"
+  },
+  {
+    "item_name": "Mossy Fermento Helmet",
+    "starting_bid": 69499900,
+    "start": 1704685154231,
+    "item_tag": "FERMENTO_HELMET",
+    "category": "armor",
+    "rarity": "MYTHIC"
+  },
+  {
+    "item_name": "[Lvl 100] Ammonite",
+    "starting_bid": 35555555,
+    "start": 1704685153817,
+    "item_tag": "PET",
+    "category": "misc",
+    "rarity": "LEGENDARY"
+  },
+  {
+    "item_name": "Anita's Artifact",
+    "starting_bid": 16000000,
+    "start": 1704685153511,
+    "item_tag": "ANITA_ARTIFACT",
+    "category": "accessories",
+    "rarity": "RARE"
+  },
+  {
+    "item_name": "God Potion",
+    "starting_bid": 1899999,
+    "start": 1704685153055,
+    "item_tag": "GOD_POTION_2",
+    "category": "misc",
+    "rarity": "SPECIAL"
+  },
+  {
+    "item_name": "Smart Bouncy Boots",
+    "starting_bid": 1150000,
+    "start": 1704685152953,
+    "item_tag": "BOUNCY_BOOTS",
+    "category": "armor",
+    "rarity": "RARE"
+  },
+  {
+    "item_name": "Giant Goldor's Leggings \u272a\u272a\u272a\u272a\u272a",
+    "starting_bid": 19999900,
+    "start": 1704685152715,
+    "item_tag": "TANK_WITHER_LEGGINGS",
+    "category": "armor",
+    "rarity": "LEGENDARY"
+  },
+  {
+    "item_name": "God Potion",
+    "starting_bid": 1800000,
+    "start": 1704685152445,
+    "item_tag": "GOD_POTION_2",
+    "category": "misc",
+    "rarity": "SPECIAL"
+  },
+  {
+    "item_name": "Red Claw Egg",
+    "starting_bid": 250000,
+    "start": 1704685152212,
+    "item_tag": "RED_CLAW_EGG",
+    "category": "misc",
+    "rarity": "EPIC"
+  },
+  {
+    "item_name": "Kat Flower",
+    "starting_bid": 490000,
+    "start": 1704685152042,
+    "item_tag": "KAT_FLOWER",
+    "category": "blocks",
+    "rarity": "SPECIAL"
+  },
+  {
+    "item_name": "Mastiff Crown",
+    "starting_bid": 1300000,
+    "start": 1704685151168,
+    "item_tag": "MASTIFF_HELMET",
+    "category": "armor",
+    "rarity": "EPIC"
+  },
+  {
+    "item_name": "Glacite Leggings",
+    "starting_bid": 75000,
+    "start": 1704685150965,
+    "item_tag": "GLACITE_LEGGINGS",
+    "category": "armor",
+    "rarity": "EPIC"
+  },
+  {
+    "item_name": "Mastiff Leggings",
+    "starting_bid": 2000000,
+    "start": 1704685150860,
+    "item_tag": "MASTIFF_LEGGINGS",
+    "category": "armor",
+    "rarity": "EPIC"
+  },
+  {
+    "item_name": "Glacite Leggings",
+    "starting_bid": 20000,
+    "start": 1704685150069,
+    "item_tag": "GLACITE_LEGGINGS",
+    "category": "armor",
+    "rarity": "EPIC"
+  },
+  {
+    "item_name": "Wise Sniper Helmet",
+    "starting_bid": 10000,
+    "start": 1704685149683,
+    "item_tag": "SNIPER_HELMET",
+    "category": "armor",
+    "rarity": "RARE"
+  },
+  {
+    "item_name": "Titanic Rotten Boots",
+    "starting_bid": 38000,
+    "start": 1704685148265,
+    "item_tag": "ROTTEN_BOOTS",
+    "category": "armor",
+    "rarity": "RARE"
+  },
+  {
+    "item_name": "Goblin Boots",
+    "starting_bid": 50000,
+    "start": 1704685147900,
+    "item_tag": "GOBLIN_BOOTS",
+    "category": "armor",
+    "rarity": "RARE"
+  },
+  {
+    "item_name": "Young Dragon Boots",
+    "starting_bid": 295000,
+    "start": 1704685146826,
+    "item_tag": "YOUNG_DRAGON_BOOTS",
+    "category": "armor",
+    "rarity": "LEGENDARY"
+  },
+  {
+    "item_name": "Spirit Shortbow",
+    "starting_bid": 4200000,
+    "start": 1704685146803,
+    "item_tag": "ITEM_SPIRIT_BOW",
+    "category": "weapon",
+    "rarity": "LEGENDARY"
+  },
+  {
+    "item_name": "Wand of Atonement",
+    "starting_bid": 9200000,
+    "start": 1704685146644,
+    "item_tag": "WAND_OF_ATONEMENT",
+    "category": "misc",
+    "rarity": "LEGENDARY"
+  },
+  {
+    "item_name": "Kat Flower",
+    "starting_bid": 490000,
+    "start": 1704685145857,
+    "item_tag": "KAT_FLOWER",
+    "category": "blocks",
+    "rarity": "SPECIAL"
+  },
+  {
+    "item_name": "Advent Calendar Display",
+    "starting_bid": 200000,
+    "start": 1704685145709,
+    "item_tag": "ADVENT_CALENDAR_DISPLAY",
+    "category": "misc",
+    "rarity": "EPIC"
+  },
+  {
+    "item_name": "Terror Boots",
+    "starting_bid": 4000000,
+    "start": 1704685145366,
+    "item_tag": "TERROR_BOOTS+ATTRIBUTE_VETERAN+ATTRIBUTE_LIFELINE",
+    "category": "armor",
+    "rarity": "LEGENDARY"
+  },
+  {
+    "item_name": "Sorrow Boots",
+    "starting_bid": 3800000,
+    "start": 1704685145300,
+    "item_tag": "SORROW_BOOTS",
+    "category": "armor",
+    "rarity": "LEGENDARY"
+  },
+  {
+    "item_name": "Miner Chestplate",
+    "starting_bid": 40000,
+    "start": 1704685141792,
+    "item_tag": "TANK_MINER_CHESTPLATE",
+    "category": "armor",
+    "rarity": "RARE"
+  },
+  {
+    "item_name": "Draconic Talisman",
+    "starting_bid": 5000000,
+    "start": 1704685141603,
+    "item_tag": "DRACONIC_TALISMAN",
+    "category": "accessories",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "item_name": "Mithril Drill SX-R226",
+    "starting_bid": 6000000,
+    "start": 1704685141459,
+    "item_tag": "MITHRIL_DRILL_1",
+    "category": "misc",
+    "rarity": "RARE"
+  },
+  {
+    "item_name": "Smart Bouncy Boots",
+    "starting_bid": 1150000,
+    "start": 1704685141371,
+    "item_tag": "BOUNCY_BOOTS",
+    "category": "armor",
+    "rarity": "RARE"
+  },
+  {
+    "item_name": "Glacite Helmet",
+    "starting_bid": 20000,
+    "start": 1704685140926,
+    "item_tag": "GLACITE_HELMET",
+    "category": "armor",
+    "rarity": "EPIC"
+  },
+  {
+    "item_name": "Hollow Boots",
+    "starting_bid": 15000000,
+    "start": 1704685140486,
+    "item_tag": "HOLLOW_BOOTS+ATTRIBUTE_ENDER_RESISTANCE+ATTRIBUTE_MANA_POOL",
+    "category": "armor",
+    "rarity": "LEGENDARY"
+  },
+  {
+    "item_name": "God Potion",
+    "starting_bid": 2000000,
+    "start": 1704685140324,
+    "item_tag": "GOD_POTION_2",
+    "category": "misc",
+    "rarity": "SPECIAL"
+  },
+  {
+    "item_name": "Mythic Rotten Boots",
+    "starting_bid": 35000,
+    "start": 1704685138626,
+    "item_tag": "ROTTEN_BOOTS",
+    "category": "armor",
+    "rarity": "RARE"
+  },
+  {
+    "item_name": "[Lvl 100] Sheep",
+    "starting_bid": 9200000,
+    "start": 1704685138608,
+    "item_tag": "PET",
+    "category": "misc",
+    "rarity": "LEGENDARY"
+  },
+  {
     "item_name": "Heroic Necromancer Sword",
-    "starting_bid": 9999999,
-    "start": 1704681387985,
+    "starting_bid": 9890000,
+    "start": 1704685138507,
     "item_tag": "NECROMANCER_SWORD",
     "category": "weapon",
     "rarity": "LEGENDARY"
   },
   {
-    "item_name": "Mythic Zombie Soldier Chestplate",
-    "starting_bid": 28000,
-    "start": 1704681387813,
-    "item_tag": "ZOMBIE_SOLDIER_CHESTPLATE",
-    "category": "armor",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "Shadow Fury \u272a\u272a",
-    "starting_bid": 52999000,
-    "start": 1704681386593,
-    "item_tag": "SHADOW_FURY",
-    "category": "weapon",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "Molten Necklace",
-    "starting_bid": 8000000,
-    "start": 1704681386391,
-    "item_tag": "MOLTEN_NECKLACE+ATTRIBUTE_MENDING+ATTRIBUTE_DOMINANCE",
-    "category": "misc",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "Golden Professor Head",
-    "starting_bid": 1190000,
-    "start": 1704681385282,
-    "item_tag": "GOLD_PROFESSOR_HEAD",
-    "category": "armor",
-    "rarity": "SPECIAL"
-  },
-  {
-    "item_name": "God Potion",
-    "starting_bid": 1900000,
-    "start": 1704681384719,
-    "item_tag": "GOD_POTION_2",
+    "item_name": "Colossal Experience Bottle Upgrade",
+    "starting_bid": 1200000,
+    "start": 1704685138186,
+    "item_tag": "COLOSSAL_EXP_BOTTLE_UPGRADE",
     "category": "misc",
     "rarity": "SPECIAL"
   },
   {
-    "item_name": "Necrotic Wise Dragon Helmet \u272a\u272a\u272a",
-    "starting_bid": 1888881,
-    "start": 1704681383949,
-    "item_tag": "WISE_DRAGON_HELMET",
-    "category": "armor",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "Reaper Scythe",
-    "starting_bid": 27249000,
-    "start": 1704681383915,
-    "item_tag": "REAPER_SCYTHE",
-    "category": "weapon",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "Reaper Scythe",
-    "starting_bid": 27000000,
-    "start": 1704681383286,
-    "item_tag": "REAPER_SCYTHE",
-    "category": "weapon",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "Enchanted Golden Apple",
-    "starting_bid": 600000,
-    "start": 1704681383143,
-    "item_tag": "GOLDEN_APPLE:1",
-    "category": "consumables",
-    "rarity": "UNCOMMON"
-  },
-  {
-    "item_name": "Fierce Reaper Mask",
-    "starting_bid": 15500000,
-    "start": 1704681382760,
-    "item_tag": "REAPER_MASK",
-    "category": "armor",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "Molten Bracelet",
-    "starting_bid": 5600000,
-    "start": 1704681382436,
-    "item_tag": "MOLTEN_BRACELET+ATTRIBUTE_MENDING+ATTRIBUTE_MANA_POOL",
-    "category": "misc",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "[Lvl 63] Chicken",
-    "starting_bid": 2400000,
-    "start": 1704681382389,
-    "item_tag": "PET",
-    "category": "misc",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "Heroic Frozen Scythe \u272a",
-    "starting_bid": 8699900,
-    "start": 1704681382172,
-    "item_tag": "FROZEN_SCYTHE",
-    "category": "weapon",
-    "rarity": "RARE"
-  },
-  {
-    "item_name": "Molten Cloak",
-    "starting_bid": 16000000,
-    "start": 1704681382139,
-    "item_tag": "MOLTEN_CLOAK+ATTRIBUTE_MENDING+ATTRIBUTE_DOMINANCE",
-    "category": "misc",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "Arachne Fragment",
-    "starting_bid": 15000,
-    "start": 1704681382086,
-    "item_tag": "ARACHNE_FRAGMENT",
+    "item_name": "Wand of Mending",
+    "starting_bid": 350000,
+    "start": 1704685138079,
+    "item_tag": "WAND_OF_MENDING",
     "category": "misc",
     "rarity": "RARE"
   },
   {
-    "item_name": "Titanic Zombie Soldier Chestplate",
-    "starting_bid": 28000,
-    "start": 1704681381841,
-    "item_tag": "ZOMBIE_SOLDIER_CHESTPLATE",
-    "category": "armor",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "Chumming Talisman",
-    "starting_bid": 839999,
-    "start": 1704681381690,
-    "item_tag": "CHUMMING_TALISMAN",
-    "category": "accessories",
-    "rarity": "UNCOMMON"
-  },
-  {
-    "item_name": "Potion Affinity Artifact",
-    "starting_bid": 6990000,
-    "start": 1704681381615,
-    "item_tag": "ARTIFACT_POTION_AFFINITY",
-    "category": "accessories",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "[Lvl 31] Bal",
-    "starting_bid": 27000000,
-    "start": 1704681381273,
-    "item_tag": "PET",
-    "category": "misc",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "Glacite Boots",
-    "starting_bid": 200000,
-    "start": 1704681381192,
-    "item_tag": "GLACITE_BOOTS",
-    "category": "armor",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "God Potion",
-    "starting_bid": 500,
-    "start": 1704681380421,
-    "item_tag": "GOD_POTION_2",
-    "category": "misc",
-    "rarity": "SPECIAL"
-  },
-  {
-    "item_name": "Pest Repellent MAX",
-    "starting_bid": 300000,
-    "start": 1704681380368,
-    "item_tag": "PEST_REPELLENT_MAX",
-    "category": "misc",
-    "rarity": "RARE"
-  },
-  {
-    "item_name": "Hollow Helmet",
-    "starting_bid": 4500000,
-    "start": 1704681379966,
-    "item_tag": "HOLLOW_HELMET+ATTRIBUTE_MENDING+ATTRIBUTE_MAGIC_FIND",
+    "item_name": "Sorrow Helmet",
+    "starting_bid": 4800000,
+    "start": 1704685137476,
+    "item_tag": "SORROW_HELMET",
     "category": "armor",
     "rarity": "LEGENDARY"
   },
   {
-    "item_name": "Giant Goldor's Chestplate \u272a\u272a\u272a\u272a\u272a",
-    "starting_bid": 42999999,
-    "start": 1704681378694,
-    "item_tag": "TANK_WITHER_CHESTPLATE",
-    "category": "armor",
-    "rarity": "MYTHIC"
-  },
-  {
-    "item_name": "Molten Belt",
-    "starting_bid": 4700000,
-    "start": 1704681378387,
-    "item_tag": "MOLTEN_BELT+ATTRIBUTE_DOMINANCE+ATTRIBUTE_SPEED",
-    "category": "misc",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "Pickonimbus 2000",
-    "starting_bid": 380000,
-    "start": 1704681378345,
-    "item_tag": "PICKONIMBUS",
-    "category": "misc",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "Red Claw Artifact",
-    "starting_bid": 8700000,
-    "start": 1704681378219,
-    "item_tag": "RED_CLAW_ARTIFACT",
-    "category": "accessories",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "Necron's Helmet \u272a\u272a\u272a",
-    "starting_bid": 17000000,
-    "start": 1704681377062,
-    "item_tag": "POWER_WITHER_HELMET",
-    "category": "armor",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "God Potion",
-    "starting_bid": 1900000,
-    "start": 1704681377004,
-    "item_tag": "GOD_POTION_2",
-    "category": "misc",
-    "rarity": "SPECIAL"
-  },
-  {
-    "item_name": "God Potion",
-    "starting_bid": 500,
-    "start": 1704681376716,
-    "item_tag": "GOD_POTION_2",
-    "category": "misc",
-    "rarity": "SPECIAL"
-  },
-  {
-    "item_name": "New Year Cake (Year 121)",
-    "starting_bid": 990000,
-    "start": 1704681376327,
-    "item_tag": "NEW_YEAR_CAKE",
-    "category": "misc",
-    "rarity": "SPECIAL"
-  },
-  {
-    "item_name": "Pickonimbus 2000",
-    "starting_bid": 385000,
-    "start": 1704681375948,
-    "item_tag": "PICKONIMBUS",
-    "category": "misc",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "Reaper Scythe",
-    "starting_bid": 27000000,
-    "start": 1704681375889,
-    "item_tag": "REAPER_SCYTHE",
-    "category": "weapon",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "Glacite Helmet",
-    "starting_bid": 230000,
-    "start": 1704681375044,
-    "item_tag": "GLACITE_HELMET",
-    "category": "armor",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "Vanquished Glowstone Gauntlet",
-    "starting_bid": 1100000,
-    "start": 1704681374803,
-    "item_tag": "VANQUISHED_GLOWSTONE_GAUNTLET+ATTRIBUTE_EXPERIENCE+ATTRIBUTE_ARACHNO_RESISTANCE",
-    "category": "misc",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "Molten Bracelet",
-    "starting_bid": 10800000,
-    "start": 1704681374167,
-    "item_tag": "MOLTEN_BRACELET+ATTRIBUTE_BREEZE+ATTRIBUTE_MANA_POOL",
-    "category": "misc",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "Balloon Snake",
-    "starting_bid": 198000,
-    "start": 1704681374104,
-    "item_tag": "BALLOON_SNAKE",
-    "category": "misc",
-    "rarity": "RARE"
-  },
-  {
-    "item_name": "Fine Soulstealer Bow",
-    "starting_bid": 5000,
-    "start": 1704681373825,
-    "item_tag": "CRYPT_BOW",
-    "category": "weapon",
-    "rarity": "RARE"
-  },
-  {
-    "item_name": "Etherwarp Conduit",
-    "starting_bid": 16221000,
-    "start": 1704681373508,
-    "item_tag": "ETHERWARP_CONDUIT",
-    "category": "misc",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "Loving Wise Dragon Chestplate \u272a\u272a\u272a\u272a\u272a",
-    "starting_bid": 2000000,
-    "start": 1704681373351,
-    "item_tag": "WISE_DRAGON_CHESTPLATE",
-    "category": "armor",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "High Class Archfiend Dice",
-    "starting_bid": 43500000,
-    "start": 1704681373173,
-    "item_tag": "HIGH_CLASS_ARCHFIEND_DICE",
-    "category": "misc",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "Glacite Boots",
-    "starting_bid": 215000,
-    "start": 1704681372042,
-    "item_tag": "GLACITE_BOOTS",
-    "category": "armor",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "Spicy Flower of Truth \u272a\u272a\u272a\u272a\u272a",
-    "starting_bid": 3399999,
-    "start": 1704681371955,
-    "item_tag": "FLOWER_OF_TRUTH",
-    "category": "weapon",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "Candy Talisman",
-    "starting_bid": 150000,
-    "start": 1704681371850,
-    "item_tag": "CANDY_TALISMAN",
-    "category": "accessories",
-    "rarity": "UNCOMMON"
-  },
-  {
-    "item_name": "Necrotic Wither Goggles \u272a\u272a\u272a\u272a\u272a",
-    "starting_bid": 6877770,
-    "start": 1704681371488,
-    "item_tag": "WITHER_GOGGLES",
-    "category": "armor",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "Glacite Helmet",
-    "starting_bid": 230000,
-    "start": 1704681371243,
-    "item_tag": "GLACITE_HELMET",
-    "category": "armor",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "Pretty Fly Vinyl",
-    "starting_bid": 40000,
-    "start": 1704681371053,
-    "item_tag": "VINYL_PRETTY_FLY",
-    "category": "misc",
-    "rarity": "UNCOMMON"
-  },
-  {
-    "item_name": "Combat Exp Boost",
-    "starting_bid": 2000000,
-    "start": 1704681370781,
-    "item_tag": "PET_ITEM_COMBAT_SKILL_BOOST_RARE",
-    "category": "weapon",
-    "rarity": "RARE"
-  },
-  {
-    "item_name": "Dante Talisman",
-    "starting_bid": 7000000,
-    "start": 1704681370580,
-    "item_tag": "DANTE_TALISMAN",
-    "category": "accessories",
-    "rarity": "COMMON"
-  },
-  {
-    "item_name": "Attribute Shard",
-    "starting_bid": 2900000,
-    "start": 1704681369081,
-    "item_tag": "ATTRIBUTE_SHARD+ATTRIBUTE_MANA_POOL",
-    "category": "misc",
-    "rarity": "COMMON"
-  },
-  {
-    "item_name": "Ancient Reaper Chestplate",
-    "starting_bid": 20000000,
-    "start": 1704681368663,
-    "item_tag": "REAPER_CHESTPLATE",
-    "category": "armor",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "\u269a Legendary Adaptive Blade \u272a\u272a\u272a\u272a\u272a",
-    "starting_bid": 1600000,
-    "start": 1704681368605,
-    "item_tag": "STARRED_STONE_BLADE",
-    "category": "weapon",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "Adaptive Boots \u272a\u272a\u272a",
-    "starting_bid": 600000,
-    "start": 1704681368100,
-    "item_tag": "ADAPTIVE_BOOTS",
-    "category": "armor",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "Night Crystal",
-    "starting_bid": 699999,
-    "start": 1704681367852,
-    "item_tag": "NIGHT_CRYSTAL",
-    "category": "accessories",
-    "rarity": "RARE"
-  },
-  {
-    "item_name": "Ancient Final Destination Helmet \u2726",
-    "starting_bid": 35999999,
-    "start": 1704681367039,
-    "item_tag": "FINAL_DESTINATION_HELMET",
-    "category": "armor",
-    "rarity": "MYTHIC"
-  },
-  {
-    "item_name": "Glacite Helmet",
-    "starting_bid": 230000,
-    "start": 1704681366885,
-    "item_tag": "GLACITE_HELMET",
-    "category": "armor",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "[Lvl 58] Tarantula",
-    "starting_bid": 1060000,
-    "start": 1704681366779,
-    "item_tag": "PET",
-    "category": "misc",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "Glacite Leggings",
-    "starting_bid": 50000,
-    "start": 1704681366626,
-    "item_tag": "GLACITE_LEGGINGS",
-    "category": "armor",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "Buzzin' Beats Vinyl",
-    "starting_bid": 40000,
-    "start": 1704681366448,
-    "item_tag": "VINYL_BUZZIN_BEATS",
-    "category": "misc",
-    "rarity": "UNCOMMON"
-  },
-  {
-    "item_name": "Pickonimbus 2000",
-    "starting_bid": 385000,
-    "start": 1704681366262,
-    "item_tag": "PICKONIMBUS",
-    "category": "misc",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "Very Wise Dragon Boots \u272a\u272a\u272a",
-    "starting_bid": 1300000,
-    "start": 1704681366127,
-    "item_tag": "WISE_DRAGON_BOOTS",
-    "category": "armor",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "[Lvl 1] Blaze",
-    "starting_bid": 7800000,
-    "start": 1704681365452,
-    "item_tag": "PET",
-    "category": "misc",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "Snow Suit Chestplate",
-    "starting_bid": 40000,
-    "start": 1704681365263,
-    "item_tag": "SNOW_SUIT_CHESTPLATE",
-    "category": "armor",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "Reaper Scythe",
-    "starting_bid": 27000000,
-    "start": 1704681364894,
-    "item_tag": "REAPER_SCYTHE",
-    "category": "weapon",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "[Lvl 82] Baby Yeti",
-    "starting_bid": 30000000,
-    "start": 1704681363998,
-    "item_tag": "PET",
-    "category": "misc",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "Spider Talisman",
-    "starting_bid": 60000,
-    "start": 1704681363822,
-    "item_tag": "SPIDER_TALISMAN",
-    "category": "accessories",
-    "rarity": "UNCOMMON"
-  },
-  {
-    "item_name": "Glacite Helmet",
-    "starting_bid": 230000,
-    "start": 1704681363227,
-    "item_tag": "GLACITE_HELMET",
-    "category": "armor",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "Archfiend Dice",
-    "starting_bid": 6400000,
-    "start": 1704681363027,
-    "item_tag": "ARCHFIEND_DICE",
-    "category": "misc",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "Moby's Shears",
-    "starting_bid": 400000,
-    "start": 1704681362798,
-    "item_tag": "MOBYS_SHEARS",
-    "category": "misc",
-    "rarity": "RARE"
-  },
-  {
-    "item_name": "Dante Talisman",
-    "starting_bid": 7000000,
-    "start": 1704681361321,
-    "item_tag": "DANTE_TALISMAN",
-    "category": "accessories",
-    "rarity": "COMMON"
-  },
-  {
-    "item_name": "Personal Compactor 7000",
-    "starting_bid": 3500000,
-    "start": 1704681360981,
-    "item_tag": "PERSONAL_COMPACTOR_7000",
-    "category": "accessories",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "New Year Cake (Year 121)",
-    "starting_bid": 990000,
-    "start": 1704681360837,
-    "item_tag": "NEW_YEAR_CAKE",
-    "category": "misc",
-    "rarity": "SPECIAL"
-  },
-  {
-    "item_name": "Molten Belt",
-    "starting_bid": 1300000,
-    "start": 1704681360308,
-    "item_tag": "MOLTEN_BELT+ATTRIBUTE_FORTITUDE+ATTRIBUTE_ARACHNO_RESISTANCE",
-    "category": "misc",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "Attribute Shard",
-    "starting_bid": 1690000,
-    "start": 1704681360118,
-    "item_tag": "ATTRIBUTE_SHARD+ATTRIBUTE_SPEED",
-    "category": "misc",
-    "rarity": "COMMON"
-  },
-  {
-    "item_name": "God Potion",
-    "starting_bid": 1880000,
-    "start": 1704681360077,
-    "item_tag": "GOD_POTION_2",
-    "category": "misc",
-    "rarity": "SPECIAL"
-  },
-  {
-    "item_name": "Strong Dragon Chestplate",
-    "starting_bid": 10,
-    "start": 1704681359953,
+    "item_name": "Fierce Strong Dragon Chestplate \u272a\u272a",
+    "starting_bid": 899000,
+    "start": 1704685136896,
     "item_tag": "STRONG_DRAGON_CHESTPLATE",
     "category": "armor",
     "rarity": "LEGENDARY"
   },
   {
-    "item_name": "Day Crystal",
-    "starting_bid": 699999,
-    "start": 1704681359786,
-    "item_tag": "DAY_CRYSTAL",
-    "category": "accessories",
-    "rarity": "RARE"
-  },
-  {
-    "item_name": "Purple Gift Talisman",
-    "starting_bid": 9000000,
-    "start": 1704681358777,
-    "item_tag": "PURPLE_GIFT_TALISMAN",
-    "category": "accessories",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "Heat Core",
-    "starting_bid": 4149999,
-    "start": 1704681358509,
-    "item_tag": "HEAT_CORE",
-    "category": "misc",
-    "rarity": "SPECIAL"
-  },
-  {
-    "item_name": "Glacite Helmet",
-    "starting_bid": 230000,
-    "start": 1704681357754,
-    "item_tag": "GLACITE_HELMET",
-    "category": "armor",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "Glacite Leggings",
-    "starting_bid": 50000,
-    "start": 1704681357465,
-    "item_tag": "GLACITE_LEGGINGS",
-    "category": "armor",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "Glacite Helmet",
-    "starting_bid": 249000,
-    "start": 1704681355526,
-    "item_tag": "GLACITE_HELMET",
-    "category": "armor",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "Reaper Scythe",
-    "starting_bid": 27000000,
-    "start": 1704681355437,
-    "item_tag": "REAPER_SCYTHE",
+    "item_name": "Aspect of the Dragons \u272a\u272a",
+    "starting_bid": 1600000,
+    "start": 1704685136839,
+    "item_tag": "ASPECT_OF_THE_DRAGON",
     "category": "weapon",
     "rarity": "LEGENDARY"
   },
   {
-    "item_name": "Giant Goldor's Chestplate \u272a\u272a\u272a\u272a\u272a",
-    "starting_bid": 64000000,
-    "start": 1704681355390,
-    "item_tag": "TANK_WITHER_CHESTPLATE",
+    "item_name": "Young Dragon Helmet",
+    "starting_bid": 390000,
+    "start": 1704685136445,
+    "item_tag": "YOUNG_DRAGON_HELMET",
     "category": "armor",
-    "rarity": "MYTHIC"
-  },
-  {
-    "item_name": "Day Crystal",
-    "starting_bid": 699999,
-    "start": 1704681354419,
-    "item_tag": "DAY_CRYSTAL",
-    "category": "accessories",
-    "rarity": "RARE"
-  },
-  {
-    "item_name": "Heat Core",
-    "starting_bid": 4149999,
-    "start": 1704681354407,
-    "item_tag": "HEAT_CORE",
-    "category": "misc",
-    "rarity": "SPECIAL"
-  },
-  {
-    "item_name": "Glacite Helmet",
-    "starting_bid": 230000,
-    "start": 1704681353053,
-    "item_tag": "GLACITE_HELMET",
-    "category": "armor",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "Red Claw Ring",
-    "starting_bid": 1300000,
-    "start": 1704681352821,
-    "item_tag": "RED_CLAW_RING",
-    "category": "accessories",
-    "rarity": "RARE"
-  },
-  {
-    "item_name": "Molten Cloak",
-    "starting_bid": 6800000,
-    "start": 1704681352010,
-    "item_tag": "MOLTEN_CLOAK+ATTRIBUTE_ENDER_RESISTANCE+ATTRIBUTE_DOMINANCE",
-    "category": "misc",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "[Lvl 85] Armadillo",
-    "starting_bid": 4390000,
-    "start": 1704681351967,
-    "item_tag": "PET",
-    "category": "misc",
     "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "Overflux Power Orb",
-    "starting_bid": 148500000,
-    "start": 1704681351806,
-    "item_tag": "OVERFLUX_POWER_ORB",
-    "category": "misc",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "[Lvl 100] Endermite \u2726",
-    "starting_bid": 27100000,
-    "start": 1704681351559,
-    "item_tag": "PET",
-    "category": "misc",
-    "rarity": "MYTHIC"
-  },
-  {
-    "item_name": "Mithril-Plated Drill Engine",
-    "starting_bid": 28800000,
-    "start": 1704681351004,
-    "item_tag": "MITHRIL_DRILL_ENGINE",
-    "category": "misc",
-    "rarity": "RARE"
-  },
-  {
-    "item_name": "Glacite Chestplate",
-    "starting_bid": 40000,
-    "start": 1704681350731,
-    "item_tag": "GLACITE_CHESTPLATE",
-    "category": "armor",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "Spider Talisman",
-    "starting_bid": 65000,
-    "start": 1704681350349,
-    "item_tag": "SPIDER_TALISMAN",
-    "category": "accessories",
-    "rarity": "UNCOMMON"
-  },
-  {
-    "item_name": "[Lvl 1] Baby Yeti",
-    "starting_bid": 1900000,
-    "start": 1704681350337,
-    "item_tag": "PET",
-    "category": "misc",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "Heroic Reaper Scythe",
-    "starting_bid": 30000000,
-    "start": 1704681350082,
-    "item_tag": "REAPER_SCYTHE",
-    "category": "weapon",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "Heat Core",
-    "starting_bid": 4149999,
-    "start": 1704681349956,
-    "item_tag": "HEAT_CORE",
-    "category": "misc",
-    "rarity": "SPECIAL"
   },
   {
     "item_name": "God Potion",
-    "starting_bid": 1880000,
-    "start": 1704681349895,
+    "starting_bid": 1850000,
+    "start": 1704685136314,
     "item_tag": "GOD_POTION_2",
     "category": "misc",
     "rarity": "SPECIAL"
   },
   {
-    "item_name": "Aspect of the Void",
-    "starting_bid": 5370000,
-    "start": 1704681349562,
-    "item_tag": "ASPECT_OF_THE_VOID",
-    "category": "weapon",
+    "item_name": "Sorrow Helmet",
+    "starting_bid": 4800000,
+    "start": 1704685135360,
+    "item_tag": "SORROW_HELMET",
+    "category": "armor",
+    "rarity": "LEGENDARY"
+  },
+  {
+    "item_name": "Fierce Sorrow Boots",
+    "starting_bid": 4100000,
+    "start": 1704685134963,
+    "item_tag": "SORROW_BOOTS",
+    "category": "armor",
+    "rarity": "LEGENDARY"
+  },
+  {
+    "item_name": "God Potion",
+    "starting_bid": 2000000,
+    "start": 1704685134410,
+    "item_tag": "GOD_POTION_2",
+    "category": "misc",
+    "rarity": "SPECIAL"
+  },
+  {
+    "item_name": "Magma Necklace",
+    "starting_bid": 300000,
+    "start": 1704685134307,
+    "item_tag": "MAGMA_NECKLACE+ATTRIBUTE_ENDER_RESISTANCE+ATTRIBUTE_DOMINANCE",
+    "category": "misc",
+    "rarity": "RARE"
+  },
+  {
+    "item_name": "Glacite Boots",
+    "starting_bid": 40000,
+    "start": 1704685134260,
+    "item_tag": "GLACITE_BOOTS",
+    "category": "armor",
     "rarity": "EPIC"
+  },
+  {
+    "item_name": "Goblin Leggings",
+    "starting_bid": 15000,
+    "start": 1704685133791,
+    "item_tag": "GOBLIN_LEGGINGS",
+    "category": "armor",
+    "rarity": "RARE"
+  },
+  {
+    "item_name": "Mossy Fermento Chestplate",
+    "starting_bid": 69499000,
+    "start": 1704685133530,
+    "item_tag": "FERMENTO_CHESTPLATE",
+    "category": "armor",
+    "rarity": "MYTHIC"
+  },
+  {
+    "item_name": "Arachne's Fang",
+    "starting_bid": 449000,
+    "start": 1704685133459,
+    "item_tag": "ARACHNE_FANG",
+    "category": "misc",
+    "rarity": "UNCOMMON"
+  },
+  {
+    "item_name": "Bat Talisman",
+    "starting_bid": 500000,
+    "start": 1704685133112,
+    "item_tag": "BAT_TALISMAN",
+    "category": "accessories",
+    "rarity": "RARE"
   },
   {
     "item_name": "Night Crystal",
     "starting_bid": 699999,
-    "start": 1704681348884,
+    "start": 1704685132578,
     "item_tag": "NIGHT_CRYSTAL",
     "category": "accessories",
     "rarity": "RARE"
   },
   {
-    "item_name": "Adaptive Helmet",
-    "starting_bid": 600000,
-    "start": 1704681348712,
-    "item_tag": "ADAPTIVE_HELMET",
+    "item_name": "Goblin Leggings",
+    "starting_bid": 30000,
+    "start": 1704685132533,
+    "item_tag": "GOBLIN_LEGGINGS",
     "category": "armor",
+    "rarity": "RARE"
+  },
+  {
+    "item_name": "Spicy Livid Dagger \u272a\u272a\u272a\u272a\u272a",
+    "starting_bid": 13999999,
+    "start": 1704685131818,
+    "item_tag": "LIVID_DAGGER",
+    "category": "weapon",
+    "rarity": "MYTHIC"
+  },
+  {
+    "item_name": "Sorrow Chestplate",
+    "starting_bid": 6900000,
+    "start": 1704685131016,
+    "item_tag": "SORROW_CHESTPLATE",
+    "category": "armor",
+    "rarity": "LEGENDARY"
+  },
+  {
+    "item_name": "God Potion",
+    "starting_bid": 2000000,
+    "start": 1704685130740,
+    "item_tag": "GOD_POTION_2",
+    "category": "misc",
+    "rarity": "SPECIAL"
+  },
+  {
+    "item_name": "Glacial Artifact",
+    "starting_bid": 2500000,
+    "start": 1704685129832,
+    "item_tag": "GLACIAL_ARTIFACT",
+    "category": "accessories",
+    "rarity": "RARE"
+  },
+  {
+    "item_name": "Molten Cloak",
+    "starting_bid": 3200000,
+    "start": 1704685129757,
+    "item_tag": "MOLTEN_CLOAK+ATTRIBUTE_BREEZE+ATTRIBUTE_DOMINANCE",
+    "category": "misc",
     "rarity": "EPIC"
   },
   {
-    "item_name": "Ancient Necron's Leggings \u272a\u272a\u272a\u272a\u272a",
-    "starting_bid": 42990000,
-    "start": 1704681348613,
-    "item_tag": "POWER_WITHER_LEGGINGS",
+    "item_name": "Clean Bouncy Boots",
+    "starting_bid": 1150000,
+    "start": 1704685129181,
+    "item_tag": "BOUNCY_BOOTS",
+    "category": "armor",
+    "rarity": "RARE"
+  },
+  {
+    "item_name": "God Potion",
+    "starting_bid": 1850000,
+    "start": 1704685128713,
+    "item_tag": "GOD_POTION_2",
+    "category": "misc",
+    "rarity": "SPECIAL"
+  },
+  {
+    "item_name": "[Lvl 100] Sheep",
+    "starting_bid": 10498000,
+    "start": 1704685128215,
+    "item_tag": "PET",
+    "category": "misc",
+    "rarity": "LEGENDARY"
+  },
+  {
+    "item_name": "Giant Goldor's Leggings \u272a\u272a\u272a\u272a\u272a\u278b",
+    "starting_bid": 64000000,
+    "start": 1704685127929,
+    "item_tag": "TANK_WITHER_LEGGINGS",
     "category": "armor",
     "rarity": "MYTHIC"
   },
   {
-    "item_name": "Golden Livid Head \u272a\u272a\u272a",
-    "starting_bid": 1800000,
-    "start": 1704681347982,
-    "item_tag": "GOLD_LIVID_HEAD",
-    "category": "armor",
-    "rarity": "SPECIAL"
-  },
-  {
-    "item_name": "Wise Dragon Boots",
-    "starting_bid": 1369999,
-    "start": 1704681347447,
-    "item_tag": "WISE_DRAGON_BOOTS",
-    "category": "armor",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "Reaper Scythe",
-    "starting_bid": 27000000,
-    "start": 1704681346521,
-    "item_tag": "REAPER_SCYTHE",
+    "item_name": "Florid Zombie Sword",
+    "starting_bid": 1900000,
+    "start": 1704685127686,
+    "item_tag": "FLORID_ZOMBIE_SWORD",
     "category": "weapon",
     "rarity": "LEGENDARY"
   },
   {
-    "item_name": "Abiphone XI Ultra",
-    "starting_bid": 3500000,
-    "start": 1704681346447,
-    "item_tag": "ABIPHONE_XI_ULTRA",
-    "category": "misc",
-    "rarity": "UNCOMMON"
-  },
-  {
-    "item_name": "Bountiful Gauss Carrot Hoe",
-    "starting_bid": 15100000,
-    "start": 1704681345157,
-    "item_tag": "THEORETICAL_HOE_CARROT_2",
-    "category": "misc",
-    "rarity": "EPIC"
-  },
-  {
     "item_name": "Heat Core",
-    "starting_bid": 4149999,
-    "start": 1704681344979,
+    "starting_bid": 4000000,
+    "start": 1704685127443,
     "item_tag": "HEAT_CORE",
     "category": "misc",
     "rarity": "SPECIAL"
   },
   {
-    "item_name": "Perfectly Cut Diamond",
-    "starting_bid": 3000000,
-    "start": 1704681344590,
-    "item_tag": "PERFECTLY_CUT_DIAMOND",
+    "item_name": "Heavy Skeleton Master Helmet",
+    "starting_bid": 70000,
+    "start": 1704685126384,
+    "item_tag": "SKELETON_MASTER_HELMET",
+    "category": "armor",
+    "rarity": "EPIC"
+  },
+  {
+    "item_name": "Magma Necklace",
+    "starting_bid": 2000000,
+    "start": 1704685125866,
+    "item_tag": "MAGMA_NECKLACE+ATTRIBUTE_MENDING+ATTRIBUTE_MANA_POOL",
+    "category": "misc",
+    "rarity": "RARE"
+  },
+  {
+    "item_name": "[Lvl 1] Armadillo",
+    "starting_bid": 999000,
+    "start": 1704685124960,
+    "item_tag": "PET",
     "category": "misc",
     "rarity": "LEGENDARY"
   },
   {
-    "item_name": "Ancient Golden Bonzo Head \u272a\u272a\u272a\u272a\u272a",
-    "starting_bid": 3500000,
-    "start": 1704681344010,
-    "item_tag": "GOLD_BONZO_HEAD",
-    "category": "armor",
+    "item_name": "God Potion",
+    "starting_bid": 2000000,
+    "start": 1704685124360,
+    "item_tag": "GOD_POTION_2",
+    "category": "misc",
     "rarity": "SPECIAL"
   },
   {
-    "item_name": "\u273f Ancient Necron's Chestplate \u272a\u272a\u272a\u272a\u272a",
-    "starting_bid": 170000000,
-    "start": 1704681343779,
-    "item_tag": "POWER_WITHER_CHESTPLATE",
-    "category": "armor",
-    "rarity": "MYTHIC"
+    "item_name": "Legendary Aspect of the Dragons",
+    "starting_bid": 1600000,
+    "start": 1704685124096,
+    "item_tag": "ASPECT_OF_THE_DRAGON",
+    "category": "weapon",
+    "rarity": "LEGENDARY"
   },
   {
-    "item_name": "Superior Dragon Helmet",
-    "starting_bid": 4880000,
-    "start": 1704681343188,
-    "item_tag": "SUPERIOR_DRAGON_HELMET",
+    "item_name": "Clean Bouncy Boots",
+    "starting_bid": 1150000,
+    "start": 1704685123920,
+    "item_tag": "BOUNCY_BOOTS",
+    "category": "armor",
+    "rarity": "RARE"
+  },
+  {
+    "item_name": "Purple Gift Talisman",
+    "starting_bid": 2400000,
+    "start": 1704685123682,
+    "item_tag": "PURPLE_GIFT_TALISMAN",
+    "category": "accessories",
+    "rarity": "EPIC"
+  },
+  {
+    "item_name": "Anita's Artifact",
+    "starting_bid": 15900000,
+    "start": 1704685123468,
+    "item_tag": "ANITA_ARTIFACT",
+    "category": "accessories",
+    "rarity": "RARE"
+  },
+  {
+    "item_name": "Goblin Boots",
+    "starting_bid": 15000,
+    "start": 1704685123257,
+    "item_tag": "GOBLIN_BOOTS",
+    "category": "armor",
+    "rarity": "RARE"
+  },
+  {
+    "item_name": "Cropie Talisman",
+    "starting_bid": 6600000,
+    "start": 1704685122630,
+    "item_tag": "CROPIE_TALISMAN",
+    "category": "accessories",
+    "rarity": "COMMON"
+  },
+  {
+    "item_name": "Sorrow Leggings",
+    "starting_bid": 6390000,
+    "start": 1704685121600,
+    "item_tag": "SORROW_LEGGINGS",
     "category": "armor",
     "rarity": "LEGENDARY"
   },
   {
-    "item_name": "Aurora Leggings",
-    "starting_bid": 4000000,
-    "start": 1704681342967,
-    "item_tag": "AURORA_LEGGINGS+ATTRIBUTE_MANA_REGENERATION+ATTRIBUTE_LIFELINE",
-    "category": "armor",
-    "rarity": "LEGENDARY"
-  },
-  {
-    "item_name": "Molten Cloak",
-    "starting_bid": 1500000,
-    "start": 1704681342706,
-    "item_tag": "MOLTEN_CLOAK+ATTRIBUTE_MENDING+ATTRIBUTE_EXPERIENCE",
+    "item_name": "God Potion",
+    "starting_bid": 2000000,
+    "start": 1704685120704,
+    "item_tag": "GOD_POTION_2",
     "category": "misc",
-    "rarity": "EPIC"
-  },
-  {
-    "item_name": "Molten Necklace",
-    "starting_bid": 26400000,
-    "start": 1704681342453,
-    "item_tag": "MOLTEN_NECKLACE+ATTRIBUTE_ENDER_RESISTANCE+ATTRIBUTE_DOMINANCE",
-    "category": "misc",
-    "rarity": "EPIC"
+    "rarity": "SPECIAL"
   }
 ]

@@ -4,7 +4,7 @@ import time
 import aiohttp
 
 import api_manager
-import auctions
+import ah_data_processor
 import output
 
 
@@ -28,10 +28,10 @@ async def main():
 
             if current_last_updated != last_updated:
                 present_time = int(time.time() * 1000)
-                auction_items = await auctions.process_auctions(response.get("auctions", []), present_time)
+                auction_items = await ah_data_processor.process_auctions(response.get("auctions", []), present_time)
                 if auction_items:
                     await asyncio.gather(
-                        output.write_to_file(auction_items),
+                        output.write_to_file(auction_items, "auction_data.json"),
                         async_print(
                             "----------------------------------------\n"
                             f"Present Unix Time: {present_time}\n"
@@ -44,8 +44,8 @@ async def main():
                     last_updated = current_last_updated
                 else:
                     print("No eligible auctions to save.")
-            else:
-                print("No new auctions")
+            ##else:
+                ##print("No new auctions")
 
             await asyncio.sleep(1)
 
