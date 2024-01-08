@@ -17,7 +17,7 @@ async def process_auctions(auctions, present_time):
   for auction in auctions:
     if auction.get("bin") and present_time - 60000 <= auction.get("start"):
       decoded_item_info, reforge, enchants = await decodeItem(auction["item_bytes"])
-      item_tag = decoded_item_info.get("decoded_item")
+      item_tag = decoded_item_info
       decoded_auction = {
         "item_name": auction["item_name"],
         "starting_bid": auction["starting_bid"],
@@ -40,7 +40,6 @@ async def write_to_file(data):
   serializable_data = json.dumps(data, default=convert_to_json_serializable, indent=2)
   async with aiofiles.open("auction_data.json", "w") as json_file:
     await json_file.write(serializable_data)
-
 
 
 async def print_details(present_time, auction_items):
@@ -75,11 +74,11 @@ async def decodeItem(raw_data):
   ]
   attributes = extra_attributes.get('attributes')
   pet_info = extra_attributes.get('petInfo')
-  result = {"id_value": id_value}
+  result = f'{id_value}'
   if attributes:
     try:
       attributes = extract_attributes(attributes)
-      result["decoded_item"] = f"{id_value}+{'+'.join(attributes)}"
+      result = f"{id_value}+{'+'.join(attributes)}"
     except json.JSONDecodeError:
       pass
   if pet_info:
@@ -87,7 +86,7 @@ async def decodeItem(raw_data):
       pet_info_dict = json.loads(pet_info.value)
       if 'type' in pet_info_dict and 'tier' in pet_info_dict:
         numeric_tier = tier_to_numeric(pet_info_dict['tier'])
-        result["decoded_item"] = f"{pet_info_dict['type']};{numeric_tier}"
+        result = f"{pet_info_dict['type']};{numeric_tier}"
     except json.JSONDecodeError:
       pass
   print("Decoded Item:", result, reforge, enchants)
