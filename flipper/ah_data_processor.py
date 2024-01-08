@@ -37,6 +37,7 @@ async def get_new_bins(auctions, present_time):
                     "category": auction["category"],
                     "rarity": auction["tier"]
                 })
+    #return decoded_auctions
     return raw_decoded_auctions
 
 

@@ -10,21 +10,30 @@ import scraper_output
 
 
 # Grabs all auctions of items over 1 mil in price, saves them and then continues to grab new auctions while running
-
+#TODO: fix auction grabbing, output error, etc
 
 
 async def async_print(*args, **kwargs):
     print(*args, **kwargs)
 
-#todo: on fresh startup only grab auctions that were put up in between the last time the scraper was run and now
+
+async def get_all_bins(session):
+    response = await scraper_api_manager.fetch_hyp_auctions(session)
+    bins = await scraper_ah_data_processor.scrape_all_bins(response.get("auctions", []))
+    for i in range(1, response.get("totalPages")):
+        response = await scraper_api_manager.fetch_hyp_auctions_page(session, i)
+        bins.append(await scraper_ah_data_processor.scrape_all_bins(response.get("auctions", [])))
+    return bins
+
+
 async def main():
     last_updated = None
     #scraper_output.clear_files()
     async with aiohttp.ClientSession() as session:
-        response = await scraper_api_manager.fetch_hyp_auctions(session)
-        bins = await scraper_ah_data_processor.scrape_all_bins(response.get("auctions", []))
+        bins = await get_all_bins(session)
         await scraper_output.write_to_file(bins, "bins.json")
         await async_print(f"found {bins.__sizeof__()} auctions matching parameters")
+        response = await scraper_api_manager.fetch_hyp_auctions(session)
         last_updated = response.get("lastUpdated")
         await asyncio.sleep(int((last_updated / 1000) + 5 - time.time()))
         #does not work to get new bins, TODO: fix
