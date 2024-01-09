@@ -4,39 +4,39 @@
       "price": 55863064.60064103
     },
     "PRECURSOR_GEAR": {
-      "price": 571098.4567487267
+      "price": 571241.8800024441
     },
     "TOIL_LOG": {
       "price": 0.0
     },
     "JADERALD": {
-      "price": 6318496.969705883
+      "price": 6320838.49382353
     },
     "BURROWING_SPORES": {
-      "price": 5463949.564830508
+      "price": 5463929.08678161
     },
     "DEEP_SEA_ORB": {
-      "price": 6079446.415204082
+      "price": 6079446.421022795
     },
     "GIANT_TOOTH": {
-      "price": 375824.5915935673
+      "price": 375824.374800973
     },
     "DRAGON_HORN": {
-      "price": 3994474.622991071
+      "price": 4000047.600757121
     }
   },
   "enchants": {
     "ENCHANTMENT_ULTIMATE_NO_PAIN_NO_GAIN_2": {
-      "price": 640.06875
+      "price": 636.1619999999999
     },
     "ENCHANTMENT_ULTIMATE_NO_PAIN_NO_GAIN_1": {
-      "price": 119.02083333333336
+      "price": 117.97500000000001
     },
     "ENCHANTMENT_PROTECTION_7": {
       "price": 37999999.755555555
     },
     "ENCHANTMENT_PROTECTION_6": {
-      "price": 4017902.7249999996
+      "price": 4014715.75325
     },
     "ENCHANTMENT_PROTECTION_1": {
       "price": 0.0
@@ -54,7 +54,7 @@
       "price": 0.0
     },
     "ENCHANTMENT_TURBO_COCO_1": {
-      "price": 68374.61706827309
+      "price": 66847.2066091954
     },
     "ENCHANTMENT_TURBO_COCO_5": {
       "price": 1211044.50875
@@ -63,10 +63,10 @@
       "price": 719675.6873809523
     },
     "ENCHANTMENT_TURBO_COCO_3": {
-      "price": 192411.32711340208
+      "price": 202158.65139911638
     },
     "ENCHANTMENT_TURBO_COCO_2": {
-      "price": 102076.96358695652
+      "price": 100047.17608695652
     },
     "ENCHANTMENT_CORRUPTION_5": {
       "price": 105750.55
@@ -123,7 +123,7 @@
       "price": 82479.59248677248
     },
     "ENCHANTMENT_FIRE_ASPECT_3": {
-      "price": 680465.5916045198
+      "price": 680465.5985684837
     },
     "ENCHANTMENT_ENDER_SLAYER_5": {
       "price": 0.0
@@ -141,7 +141,7 @@
       "price": 94327847.31666666
     },
     "ENCHANTMENT_ENDER_SLAYER_6": {
-      "price": 997684.2734872934
+      "price": 997684.2754095006
     },
     "ENCHANTMENT_SHARPNESS_1": {
       "price": 0.0
@@ -168,13 +168,13 @@
       "price": 34607500.85
     },
     "ENCHANTMENT_THUNDERLORD_7": {
-      "price": 7390341.800000001
+      "price": 7390341.725
     },
     "ENCHANTMENT_THUNDERLORD_6": {
-      "price": 5802.258846153845
+      "price": 5802.261328125001
     },
     "ENCHANTMENT_TURBO_MELON_5": {
-      "price": 1593334.1691176472
+      "price": 1593334.121875
     },
     "ENCHANTMENT_THUNDERLORD_3": {
       "price": 0.0
@@ -189,13 +189,13 @@
       "price": 0.0
     },
     "ENCHANTMENT_SHARPNESS_6": {
-      "price": 2170076.1786796534
+      "price": 2152201.7068609023
     },
     "ENCHANTMENT_THUNDERLORD_4": {
       "price": 0.0
     },
     "ENCHANTMENT_MANA_STEAL_1": {
-      "price": 5678.061385976409
+      "price": 5677.943617848259
     },
     "ENCHANTMENT_MANA_STEAL_2": {
       "price": 46189.346455117215
@@ -219,7 +219,7 @@
       "price": 556625.9576530613
     },
     "ENCHANTMENT_TURBO_MELON_1": {
-      "price": 69924.6513439065
+      "price": 70181.18614906832
     },
     "ENCHANTMENT_STRONG_MANA_5": {
       "price": 2272960.1026908634
@@ -237,16 +237,16 @@
       "price": 269255.41703603603
     },
     "ENCHANTMENT_STRONG_MANA_1": {
-      "price": 141908.70875
+      "price": 141908.708040201
     },
     "ENCHANTMENT_HARDENED_MANA_1": {
-      "price": 26948.446032399777
+      "price": 26948.184020335255
     },
     "ENCHANTMENT_HARDENED_MANA_3": {
-      "price": 63593.759006410255
+      "price": 63593.75804375805
     },
     "ENCHANTMENT_HARDENED_MANA_2": {
-      "price": 35028.36475
+      "price": 35028.314750000005
     },
     "ENCHANTMENT_ULTIMATE_COMBO_1": {
       "price": 1000.6
@@ -255,7 +255,7 @@
       "price": 4000.2494505494506
     },
     "ENCHANTMENT_ULTIMATE_COMBO_5": {
-      "price": 84584.55126649477
+      "price": 84438.25199244758
     },
     "ENCHANTMENT_ULTIMATE_COMBO_3": {
       "price": 32966.80214521452
@@ -282,19 +282,19 @@
       "price": 48539.77670019157
     },
     "ENCHANTMENT_TURBO_WARTS_5": {
-      "price": 30261.21636117788
+      "price": 30261.218976562497
     },
     "ENCHANTMENT_HARDENED_MANA_5": {
       "price": 342291.85902891436
     },
     "ENCHANTMENT_HARDENED_MANA_4": {
-      "price": 173471.24305841926
+      "price": 173448.04345057614
     },
     "ENCHANTMENT_HARDENED_MANA_7": {
       "price": 2189043.6
     },
     "ENCHANTMENT_HARDENED_MANA_6": {
-      "price": 1099999.645614035
+      "price": 1099999.6607843137
     },
     "ENCHANTMENT_HARDENED_MANA_9": {
       "price": 5080001.834210526
@@ -321,7 +321,7 @@
       "price": 0.0
     },
     "ENCHANTMENT_EXPERIENCE_4": {
-      "price": 622301.7723333333
+      "price": 622301.8898989899
     },
     "ENCHANTMENT_EXPERIENCE_3": {
       "price": 0.0
@@ -330,7 +330,7 @@
       "price": 77945454.70454545
     },
     "ENCHANTMENT_DELICATE_5": {
-      "price": 1776592.789957265
+      "price": 1776592.794471154
     },
     "ENCHANTMENT_PROSECUTE_6": {
       "price": 291320086.50625
@@ -354,7 +354,7 @@
       "price": 0.0
     },
     "ENCHANTMENT_CASTER_6": {
-      "price": 77075.84264264264
+      "price": 76363.08877777777
     },
     "ENCHANTMENT_PROSECUTE_4": {
       "price": 0.0
@@ -369,19 +369,19 @@
       "price": 0.0
     },
     "ENCHANTMENT_RESPITE_5": {
-      "price": 471104.6558139535
+      "price": 471104.6058139535
     },
     "ENCHANTMENT_RESPITE_3": {
-      "price": 85435.7883064516
+      "price": 85435.8508064516
     },
     "ENCHANTMENT_RESPITE_4": {
-      "price": 753649.0373737373
+      "price": 753649.0429292929
     },
     "ENCHANTMENT_RESPITE_1": {
       "price": 66005.24166666667
     },
     "ENCHANTMENT_RESPITE_2": {
-      "price": 61130.0078320802
+      "price": 61125.18005018821
     },
     "ENCHANTMENT_OVERLOAD_5": {
       "price": 21499998.9
@@ -396,7 +396,7 @@
       "price": 3349504.7525510206
     },
     "ENCHANTMENT_OVERLOAD_1": {
-      "price": 1096233.5200327511
+      "price": 1094013.4101857785
     },
     "ENCHANTMENT_FIRE_PROTECTION_6": {
       "price": 41974.453626428214
@@ -426,7 +426,7 @@
       "price": 716369.7291984733
     },
     "ENCHANTMENT_ULTIMATE_JERRY_5": {
-      "price": 78899.40598241592
+      "price": 78899.4057131902
     },
     "ENCHANTMENT_ULTIMATE_JERRY_4": {
       "price": 200001.73
@@ -468,7 +468,7 @@
       "price": 0.0
     },
     "ENCHANTMENT_HARVESTING_6": {
-      "price": 3406548.370645544
+      "price": 3406548.4386487408
     },
     "ENCHANTMENT_DEDICATION_2": {
       "price": 2352588.5771875
@@ -480,16 +480,16 @@
       "price": 92169140.20714286
     },
     "ENCHANTMENT_DEDICATION_3": {
-      "price": 4935667.4012096785
+      "price": 4935667.408709677
     },
     "ENCHANTMENT_ULTIMATE_WISE_2": {
-      "price": 318712.89481809235
+      "price": 320634.2693609593
     },
     "ENCHANTMENT_ULTIMATE_WISE_1": {
-      "price": 157719.6422480106
+      "price": 157341.3817316745
     },
     "ENCHANTMENT_ULTIMATE_WISE_4": {
-      "price": 2417956.9312500004
+      "price": 2404186.9867647057
     },
     "ENCHANTMENT_ULTIMATE_WISE_3": {
       "price": 675165.9495189996
@@ -504,13 +504,13 @@
       "price": 0.0
     },
     "ENCHANTMENT_LUCK_OF_THE_SEA_6": {
-      "price": 64680.48957270547
+      "price": 64680.492745053954
     },
     "ENCHANTMENT_SMARTY_PANTS_3": {
       "price": 2008051.8408284024
     },
     "ENCHANTMENT_ULTIMATE_WISE_5": {
-      "price": 2748550.179362716
+      "price": 2750633.739739257
     },
     "ENCHANTMENT_SMARTY_PANTS_2": {
       "price": 1201991.4571283783
@@ -519,19 +519,19 @@
       "price": 0.0
     },
     "ENCHANTMENT_SMARTY_PANTS_5": {
-      "price": 7523318.083333334
+      "price": 7523318.15
     },
     "ENCHANTMENT_LUCK_OF_THE_SEA_2": {
       "price": 0.0
     },
     "ENCHANTMENT_SMARTY_PANTS_4": {
-      "price": 4714207.98556701
+      "price": 4714615.637623762
     },
     "ENCHANTMENT_LUCK_OF_THE_SEA_3": {
       "price": 0.0
     },
     "ENCHANTMENT_SMARTY_PANTS_1": {
-      "price": 440068.224764268
+      "price": 439467.72809147375
     },
     "ENCHANTMENT_LURE_2": {
       "price": 0.0
@@ -540,7 +540,7 @@
       "price": 0.0
     },
     "ENCHANTMENT_LURE_6": {
-      "price": 744.0833333333334
+      "price": 747.506640625
     },
     "ENCHANTMENT_LURE_5": {
       "price": 0.0
@@ -564,13 +564,13 @@
       "price": 0.0
     },
     "ENCHANTMENT_FEROCIOUS_MANA_5": {
-      "price": 1778846.2645454544
+      "price": 1778846.245885287
     },
     "ENCHANTMENT_MAGNET_1": {
       "price": 0.0
     },
     "ENCHANTMENT_FEROCIOUS_MANA_6": {
-      "price": 2550003.1714285715
+      "price": 2550003.1897435896
     },
     "ENCHANTMENT_MAGNET_4": {
       "price": 0.0
@@ -582,7 +582,7 @@
       "price": 0.0
     },
     "ENCHANTMENT_MAGNET_6": {
-      "price": 72581554.35
+      "price": 72581554.34615384
     },
     "ENCHANTMENT_FEROCIOUS_MANA_1": {
       "price": 125816.80174485125
@@ -597,7 +597,7 @@
       "price": 422617.4286778398
     },
     "ENCHANTMENT_PESTERMINATOR_1": {
-      "price": 2203021.339036145
+      "price": 2229690.0646491228
     },
     "ENCHANTMENT_PESTERMINATOR_2": {
       "price": 7513487.95
@@ -609,7 +609,7 @@
       "price": 0.0
     },
     "ENCHANTMENT_PROJECTILE_PROTECTION_6": {
-      "price": 2958.594444444444
+      "price": 2958.6722222222215
     },
     "ENCHANTMENT_PESTERMINATOR_3": {
       "price": 13250001.438235294
@@ -642,7 +642,7 @@
       "price": 2691981.694654088
     },
     "ENCHANTMENT_DRAGON_HUNTER_5": {
-      "price": 15716022.7
+      "price": 15716022.75
     },
     "ENCHANTMENT_DRAGON_HUNTER_2": {
       "price": 1506994.4166666667
@@ -678,13 +678,13 @@
       "price": 5007500.9
     },
     "ENCHANTMENT_QUANTUM_5": {
-      "price": 1348704.3877777779
+      "price": 1310632.4659420291
     },
     "ENCHANTMENT_QUANTUM_3": {
-      "price": 290006.3984126984
+      "price": 290006.3038402458
     },
     "ENCHANTMENT_REPLENISH_1": {
-      "price": 1324464.977453581
+      "price": 1324465.004144385
     },
     "ENCHANTMENT_ULTIMATE_SWARM_5": {
       "price": 11140549.7
@@ -699,7 +699,7 @@
       "price": 0.0
     },
     "ENCHANTMENT_TURBO_WHEAT_1": {
-      "price": 7303.41602975496
+      "price": 7303.236974299066
     },
     "ENCHANTMENT_TURBO_WHEAT_2": {
       "price": 5000689.734554974
@@ -714,7 +714,7 @@
       "price": 162120.5390625
     },
     "ENCHANTMENT_ULTIMATE_SWARM_1": {
-      "price": 684378.5256553912
+      "price": 682133.9205387931
     },
     "ENCHANTMENT_ULTIMATE_SWARM_2": {
       "price": 775006.1948979592
@@ -744,34 +744,34 @@
       "price": 0.0
     },
     "ENCHANTMENT_GROWTH_6": {
-      "price": 8335991.938617887
+      "price": 8335991.871951219
     },
     "ENCHANTMENT_GROWTH_7": {
       "price": 155150003.421875
     },
     "ENCHANTMENT_ULTIMATE_CHIMERA_1": {
-      "price": 151188396.635
+      "price": 151188396.78142858
     },
     "ENCHANTMENT_ULTIMATE_LAST_STAND_5": {
-      "price": 4359003.951388889
+      "price": 4359003.948611111
     },
     "ENCHANTMENT_ULTIMATE_LAST_STAND_4": {
-      "price": 2314293.263519924
+      "price": 2314293.1713114753
     },
     "ENCHANTMENT_ULTIMATE_CHIMERA_5": {
       "price": 250000000.0
     },
     "ENCHANTMENT_ULTIMATE_LAST_STAND_3": {
-      "price": 1126735.1678571429
+      "price": 1126735.1628571427
     },
     "ENCHANTMENT_ULTIMATE_LAST_STAND_2": {
-      "price": 479171.5944052419
+      "price": 479158.49178607983
     },
     "ENCHANTMENT_ULTIMATE_CHIMERA_4": {
       "price": 250000000.0
     },
     "ENCHANTMENT_ULTIMATE_LAST_STAND_1": {
-      "price": 258310.07961165046
+      "price": 258309.65021206863
     },
     "ENCHANTMENT_ULTIMATE_CHIMERA_3": {
       "price": 131250000.75
@@ -828,7 +828,7 @@
       "price": 0.0
     },
     "ENCHANTMENT_CRITICAL_6": {
-      "price": 3146.2797101449273
+      "price": 3146.236827956989
     },
     "ENCHANTMENT_CRITICAL_7": {
       "price": 99078456.65937501
@@ -897,7 +897,7 @@
       "price": 0.0
     },
     "ENCHANTMENT_ULTIMATE_REITERATE_1": {
-      "price": 7611356.1987961475
+      "price": 7612137.951527778
     },
     "ENCHANTMENT_ULTIMATE_REITERATE_4": {
       "price": 48350003.328571424
@@ -906,7 +906,7 @@
       "price": 0.0
     },
     "ENCHANTMENT_ULTIMATE_REITERATE_5": {
-      "price": 75503998.60943395
+      "price": 75503998.6109813
     },
     "ENCHANTMENT_ULTIMATE_REITERATE_2": {
       "price": 23286026.4
@@ -945,10 +945,10 @@
       "price": 0.0
     },
     "ENCHANTMENT_FEATHER_FALLING_7": {
-      "price": 5490.6530587513425
+      "price": 5490.6513270440255
     },
     "ENCHANTMENT_FEATHER_FALLING_6": {
-      "price": 2.499321266968326
+      "price": 3.584468085106383
     },
     "ENCHANTMENT_FEATHER_FALLING_5": {
       "price": 0.0
@@ -957,7 +957,7 @@
       "price": 0.0
     },
     "ENCHANTMENT_FEATHER_FALLING_9": {
-      "price": 301429.7425675676
+      "price": 301429.7009009009
     },
     "ENCHANTMENT_FEATHER_FALLING_8": {
       "price": 27115.737675438595
@@ -972,7 +972,7 @@
       "price": 0.0
     },
     "ENCHANTMENT_COMPACT_1": {
-      "price": 4604117.122222222
+      "price": 4604117.129411764
     },
     "ENCHANTMENT_PRISTINE_1": {
       "price": 1210093.9828682172
@@ -993,7 +993,7 @@
       "price": 0.0
     },
     "ENCHANTMENT_BLAST_PROTECTION_6": {
-      "price": 41779.978089887634
+      "price": 41697.55507518797
     },
     "ENCHANTMENT_COMPACT_4": {
       "price": 0.0
@@ -1044,7 +1044,7 @@
       "price": 0.0
     },
     "ENCHANTMENT_LIFE_STEAL_4": {
-      "price": 88613.57355785838
+      "price": 84180.49435351882
     },
     "ENCHANTMENT_PISCARY_1": {
       "price": 0.0
@@ -1098,19 +1098,19 @@
       "price": 212595.09950980393
     },
     "ENCHANTMENT_MANA_VAMPIRE_1": {
-      "price": 179020.50249244715
+      "price": 179020.5298346056
     },
     "ENCHANTMENT_MANA_VAMPIRE_4": {
       "price": 1171184.043907563
     },
     "ENCHANTMENT_MANA_VAMPIRE_3": {
-      "price": 463192.8761146497
+      "price": 463192.8261146497
     },
     "ENCHANTMENT_MANA_VAMPIRE_6": {
-      "price": 3250001.8701086957
+      "price": 3250001.9296875
     },
     "ENCHANTMENT_MANA_VAMPIRE_5": {
-      "price": 2156421.1263485476
+      "price": 2156421.1223485474
     },
     "ENCHANTMENT_MANA_VAMPIRE_8": {
       "price": 15003750.720238095
@@ -1158,7 +1158,7 @@
       "price": 257888887.5277778
     },
     "ENCHANTMENT_POWER_6": {
-      "price": 233746.2088103852
+      "price": 233746.20269374223
     },
     "ENCHANTMENT_ANGLER_1": {
       "price": 0.0
@@ -1182,7 +1182,7 @@
       "price": 0.0
     },
     "ENCHANTMENT_ANGLER_6": {
-      "price": 10007.141
+      "price": 10007.14387755102
     },
     "ENCHANTMENT_POWER_5": {
       "price": 0.0
@@ -1254,7 +1254,7 @@
       "price": 0.0
     },
     "ENCHANTMENT_CULTIVATING_1": {
-      "price": 4621426.404166667
+      "price": 4621092.137878788
     },
     "ENCHANTMENT_VAMPIRISM_1": {
       "price": 0.0
@@ -1266,19 +1266,19 @@
       "price": 0.0
     },
     "ENCHANTMENT_ULTIMATE_SOUL_EATER_1": {
-      "price": 1825187.1534438245
+      "price": 1731018.9152165032
     },
     "ENCHANTMENT_ULTIMATE_SOUL_EATER_3": {
-      "price": 5709498.61
+      "price": 5709498.625
     },
     "ENCHANTMENT_ULTIMATE_SOUL_EATER_2": {
       "price": 2593579.850824176
     },
     "ENCHANTMENT_ULTIMATE_SOUL_EATER_5": {
-      "price": 23463757.23478261
+      "price": 23453285.247727275
     },
     "ENCHANTMENT_ULTIMATE_SOUL_EATER_4": {
-      "price": 11641616.15
+      "price": 11641616.2
     },
     "ENCHANTMENT_CHANCE_2": {
       "price": 0.0
@@ -1305,16 +1305,16 @@
       "price": 0.0
     },
     "ENCHANTMENT_GREEN_THUMB_1": {
-      "price": 7425680.95719697
+      "price": 7424898.946173469
     },
     "ENCHANTMENT_ULTIMATE_FLASH_2": {
       "price": 9500489.726153847
     },
     "ENCHANTMENT_ULTIMATE_FLASH_1": {
-      "price": 3451940.983922384
+      "price": 3445309.6416146923
     },
     "ENCHANTMENT_GREEN_THUMB_2": {
-      "price": 13571770.908333331
+      "price": 13571770.858333332
     },
     "ENCHANTMENT_ULTIMATE_FLASH_4": {
       "price": 252000000.215
@@ -1323,7 +1323,7 @@
       "price": 27090001.158620685
     },
     "ENCHANTMENT_GREEN_THUMB_4": {
-      "price": 38493783.94025424
+      "price": 38584971.360245906
     },
     "ENCHANTMENT_ULTIMATE_FLASH_3": {
       "price": 14202613.584693877
@@ -1347,13 +1347,13 @@
       "price": 0.0
     },
     "ENCHANTMENT_TURBO_PUMPKIN_1": {
-      "price": 41877.82325207999
+      "price": 41877.766527914704
     },
     "ENCHANTMENT_TURBO_PUMPKIN_2": {
-      "price": 50350.23306451613
+      "price": 50350.2747311828
     },
     "ENCHANTMENT_TURBO_PUMPKIN_3": {
-      "price": 219225.4286885246
+      "price": 219225.3786885246
     },
     "ENCHANTMENT_TURBO_PUMPKIN_4": {
       "price": 445349.85000000003
@@ -1374,7 +1374,7 @@
       "price": 0.0
     },
     "ENCHANTMENT_EXPERTISE_1": {
-      "price": 4508375.472695036
+      "price": 4508375.426861702
     },
     "ENCHANTMENT_ULTIMATE_FATAL_TEMPO_5": {
       "price": 12500000.054310346
@@ -1419,7 +1419,7 @@
       "price": 0.0
     },
     "ENCHANTMENT_CHAMPION_1": {
-      "price": 4599257.617857142
+      "price": 4599257.6075
     },
     "ENCHANTMENT_CHAMPION_3": {
       "price": 0.0
@@ -1461,10 +1461,10 @@
       "price": 0.0
     },
     "ENCHANTMENT_ULTIMATE_ONE_FOR_ALL_1": {
-      "price": 2570892.993574438
+      "price": 2569829.1181439394
     },
     "ENCHANTMENT_SNIPE_4": {
-      "price": 106361506.35
+      "price": 106361506.4
     },
     "ENCHANTMENT_RESPIRATION_1": {
       "price": 0.0
@@ -1473,37 +1473,37 @@
       "price": 0.0
     },
     "ENCHANTMENT_REFLECTION_5": {
-      "price": 3565537.420727273
+      "price": 3548398.582967033
     },
     "ENCHANTMENT_REFLECTION_4": {
       "price": 2273766.25
     },
     "ENCHANTMENT_ULTIMATE_BANK_5": {
-      "price": 18501.868352059926
+      "price": 18501.968173076923
     },
     "ENCHANTMENT_ULTIMATE_LEGION_1": {
-      "price": 2130369.8563927505
+      "price": 2131291.7288101558
     },
     "ENCHANTMENT_ULTIMATE_BANK_2": {
-      "price": 110.69024390243902
+      "price": 110.38629032258065
     },
     "ENCHANTMENT_ULTIMATE_BANK_1": {
-      "price": 152.2107142857143
+      "price": 102.33571428571429
     },
     "ENCHANTMENT_ULTIMATE_LEGION_2": {
       "price": 4484586.103174604
     },
     "ENCHANTMENT_ULTIMATE_BANK_4": {
-      "price": 14937.119617419617
+      "price": 14937.218518518519
     },
     "ENCHANTMENT_ULTIMATE_BANK_3": {
       "price": 1758.563768115942
     },
     "ENCHANTMENT_REFLECTION_1": {
-      "price": 369250.1536904762
+      "price": 369249.9753943218
     },
     "ENCHANTMENT_ULTIMATE_LEGION_5": {
-      "price": 36899999.11428572
+      "price": 36899999.01428571
     },
     "ENCHANTMENT_REFLECTION_3": {
       "price": 1019593.746226415
@@ -1542,7 +1542,7 @@
       "price": 0.0
     },
     "ENCHANTMENT_PROSPERITY_4": {
-      "price": 16436101.280681819
+      "price": 16436101.283707865
     },
     "ENCHANTMENT_COUNTER_STRIKE_3": {
       "price": 15509.32093023256
@@ -1560,7 +1560,7 @@
       "price": 0.0
     },
     "ENCHANTMENT_SPIKED_HOOK_6": {
-      "price": 3865.9899999999993
+      "price": 4048.684999999999
     },
     "ENCHANTMENT_SPIKED_HOOK_3": {
       "price": 0.0
@@ -1584,7 +1584,7 @@
       "price": 0.0
     },
     "ENCHANTMENT_LETHALITY_6": {
-      "price": 108164.34332873966
+      "price": 108157.357497553
     },
     "ENCHANTMENT_CLEAVE_2": {
       "price": 0.0
@@ -1593,7 +1593,7 @@
       "price": 0.0
     },
     "ENCHANTMENT_REJUVENATE_1": {
-      "price": 32814.69820704887
+      "price": 32900.421781410594
     },
     "ENCHANTMENT_CLEAVE_4": {
       "price": 0.0
@@ -1608,25 +1608,25 @@
       "price": 0.0
     },
     "ENCHANTMENT_REJUVENATE_5": {
-      "price": 710000.099897541
+      "price": 709936.6211309524
     },
     "ENCHANTMENT_VICIOUS_3": {
       "price": 35955891.7
     },
     "ENCHANTMENT_REJUVENATE_4": {
-      "price": 391326.3888111888
+      "price": 391326.4282051282
     },
     "ENCHANTMENT_VICIOUS_4": {
       "price": 62753346.70714286
     },
     "ENCHANTMENT_REJUVENATE_3": {
-      "price": 149398.441680602
+      "price": 149403.73822055137
     },
     "ENCHANTMENT_VICIOUS_5": {
       "price": 118419495.46666667
     },
     "ENCHANTMENT_REJUVENATE_2": {
-      "price": 67224.90202091768
+      "price": 67197.02218498659
     },
     "ENCHANTMENT_SPIKED_HOOK_1": {
       "price": 0.0
@@ -1638,7 +1638,7 @@
       "price": 1093689.8329545455
     },
     "ENCHANTMENT_TURBO_CARROT_1": {
-      "price": 11758.121484374999
+      "price": 11758.126718885987
     },
     "ENCHANTMENT_GIANT_KILLER_4": {
       "price": 0.0
@@ -1656,7 +1656,7 @@
       "price": 0.0
     },
     "ENCHANTMENT_GIANT_KILLER_6": {
-      "price": 1429629.380792683
+      "price": 1427515.3287037038
     },
     "ENCHANTMENT_GIANT_KILLER_7": {
       "price": 145232089.83750004
@@ -1674,13 +1674,13 @@
       "price": 40519.307692307695
     },
     "ENCHANTMENT_ULTIMATE_REFRIGERATE_1": {
-      "price": 3303938.0435567796
+      "price": 3302696.5760659818
     },
     "ENCHANTMENT_ULTIMATE_INFERNO_2": {
       "price": 5001.7515151515145
     },
     "ENCHANTMENT_ULTIMATE_REFRIGERATE_2": {
-      "price": 6759955.5
+      "price": 6759955.55
     },
     "ENCHANTMENT_ULTIMATE_INFERNO_5": {
       "price": 116450000.05
@@ -1704,7 +1704,7 @@
       "price": 729060.0188118811
     },
     "ENCHANTMENT_TURBO_CARROT_5": {
-      "price": 232996.93883928572
+      "price": 232997.02171428574
     },
     "ENCHANTMENT_TURBO_CANE_4": {
       "price": 96086.69175257732
@@ -1716,10 +1716,10 @@
       "price": 2500005.4637195123
     },
     "ENCHANTMENT_TURBO_CANE_1": {
-      "price": 4294.230964411247
+      "price": 4294.235873287671
     },
     "ENCHANTMENT_TURBO_CANE_5": {
-      "price": 250003.7
+      "price": 250003.65
     },
     "ENCHANTMENT_FORTUNE_1": {
       "price": 0.0
@@ -1731,7 +1731,7 @@
       "price": 0.0
     },
     "ENCHANTMENT_FORTUNE_4": {
-      "price": 176954.69655918368
+      "price": 176479.6596
     },
     "ENCHANTMENT_FLAME_2": {
       "price": 0.0
@@ -1746,7 +1746,7 @@
       "price": 0.0
     },
     "ENCHANTMENT_DIVINE_GIFT_1": {
-      "price": 15322671.811363636
+      "price": 15322671.81212121
     },
     "ENCHANTMENT_GIANT_KILLER_1": {
       "price": 0.0
@@ -1764,7 +1764,7 @@
       "price": 0.0
     },
     "ENCHANTMENT_FRAIL_6": {
-      "price": 5575.140909090908
+      "price": 5575.143050847458
     },
     "ENCHANTMENT_FRAIL_5": {
       "price": 0.0
@@ -1782,13 +1782,13 @@
       "price": 88958083.83888888
     },
     "ENCHANTMENT_SYPHON_4": {
-      "price": 361255.4414431673
+      "price": 361255.4345648604
     },
     "ENCHANTMENT_EXECUTE_6": {
       "price": 51951093.81
     },
     "ENCHANTMENT_INFINITE_QUIVER_10": {
-      "price": 46253.32083333333
+      "price": 46253.31621621621
     },
     "ENCHANTMENT_EXECUTE_3": {
       "price": 0.0
@@ -1806,16 +1806,16 @@
       "price": 0.0
     },
     "ENCHANTMENT_LOOTING_4": {
-      "price": 2258.4002369668247
+      "price": 2258.4
     },
     "ENCHANTMENT_SMITE_7": {
-      "price": 7489305.578755761
+      "price": 7747916.490800001
     },
     "ENCHANTMENT_SCAVENGER_3": {
       "price": 0.0
     },
     "ENCHANTMENT_SCAVENGER_4": {
-      "price": 3499.4012605042017
+      "price": 3499.401694915254
     },
     "ENCHANTMENT_LOOTING_3": {
       "price": 0.0
@@ -1842,7 +1842,7 @@
       "price": 0.0
     },
     "ENCHANTMENT_SCAVENGER_5": {
-      "price": 13550747.959375001
+      "price": 13550747.909375
     },
     "ENCHANTMENT_CUBISM_1": {
       "price": 0.0
@@ -1878,7 +1878,7 @@
       "price": 0.0
     },
     "ENCHANTMENT_SMITE_6": {
-      "price": 449.82075098814227
+      "price": 449.11984435797666
     },
     "ENCHANTMENT_HECATOMB_2": {
       "price": 0.0
@@ -1887,7 +1887,7 @@
       "price": 0.0
     },
     "ENCHANTMENT_HECATOMB_1": {
-      "price": 6604224.180142857
+      "price": 6604224.13
     },
     "ENCHANTMENT_HECATOMB_6": {
       "price": 0.0
@@ -1908,10 +1908,10 @@
       "price": 0.0
     },
     "ENCHANTMENT_SUNDER_1": {
-      "price": 44374.869650911336
+      "price": 44374.8437348546
     },
     "ENCHANTMENT_TRANSYLVANIAN_5": {
-      "price": 970774.579661017
+      "price": 970774.6301724138
     },
     "ENCHANTMENT_TRANSYLVANIAN_4": {
       "price": 576774.0733809525
@@ -1920,7 +1920,7 @@
       "price": 412055.019047619
     },
     "ENCHANTMENT_SUNDER_5": {
-      "price": 926106.3216254218
+      "price": 926106.2571428572
     },
     "ENCHANTMENT_SUNDER_2": {
       "price": 94104.56302816902
@@ -1929,13 +1929,13 @@
       "price": 202584.30355587805
     },
     "ENCHANTMENT_LUCK_6": {
-      "price": 2991.3
+      "price": 1994.2
     },
     "ENCHANTMENT_LUCK_7": {
       "price": 47049548.06842105
     },
     "ENCHANTMENT_SUNDER_6": {
-      "price": 6421583.357142856
+      "price": 6425250.010465115
     },
     "ENCHANTMENT_LUCK_2": {
       "price": 0.0
@@ -1956,7 +1956,7 @@
       "price": 20271.31692927171
     },
     "ENCHANTMENT_INFINITE_QUIVER_6": {
-      "price": 3.8385714285714285
+      "price": 3.7520270270270273
     },
     "ENCHANTMENT_INFINITE_QUIVER_7": {
       "price": 2999.049065420561
@@ -1968,7 +1968,7 @@
       "price": 2072513.5286764705
     },
     "ENCHANTMENT_TURBO_POTATO_3": {
-      "price": 239200.09310344825
+      "price": 239200.08925729443
     },
     "ENCHANTMENT_BANE_OF_ARTHROPODS_2": {
       "price": 0.0
@@ -1977,10 +1977,10 @@
       "price": 0.0
     },
     "ENCHANTMENT_ULTIMATE_WISDOM_5": {
-      "price": 3621296.578167922
+      "price": 3621296.4832766894
     },
     "ENCHANTMENT_TURBO_POTATO_4": {
-      "price": 409615.33712121216
+      "price": 409615.2871212121
     },
     "ENCHANTMENT_BANE_OF_ARTHROPODS_3": {
       "price": 0.0
@@ -1989,7 +1989,7 @@
       "price": 0.0
     },
     "ENCHANTMENT_TURBO_POTATO_5": {
-      "price": 574999.1000000001
+      "price": 574998.9750000001
     },
     "ENCHANTMENT_INFINITE_QUIVER_2": {
       "price": 0.0
@@ -2001,10 +2001,10 @@
       "price": 0.0
     },
     "ENCHANTMENT_BANE_OF_ARTHROPODS_6": {
-      "price": 558.1441860465115
+      "price": 550.1697674418606
     },
     "ENCHANTMENT_ULTIMATE_WISDOM_1": {
-      "price": 215410.52588069098
+      "price": 215360.0210962072
     },
     "ENCHANTMENT_BANE_OF_ARTHROPODS_7": {
       "price": 3364463.2635000004
@@ -2013,10 +2013,10 @@
       "price": 0.0
     },
     "ENCHANTMENT_TURBO_POTATO_1": {
-      "price": 24554.798089430893
+      "price": 24554.854166666668
     },
     "ENCHANTMENT_ULTIMATE_WISDOM_2": {
-      "price": 399629.0928778135
+      "price": 399628.27496778354
     },
     "ENCHANTMENT_BANE_OF_ARTHROPODS_4": {
       "price": 0.0
