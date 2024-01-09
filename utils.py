@@ -17,17 +17,18 @@ async def process_auctions(auctions, present_time):
     decoded_auctions = []
     for auction in auctions:
         if auction.get("bin") and present_time - 60000 <= auction.get("start"):
-            decoded_item_info, reforge, enchants = await decodeItem(auction["item_bytes"])
-            item_tag = decoded_item_info
+            decoded_item_info, reforge, enchants, recomb, hpb = await decodeItem(auction["item_bytes"])
             decoded_auction = {
-                "item_name": auction["item_name"],
-                "uuid": auction["uuid"],
-                "starting_bid": auction["starting_bid"],
-                "start": auction["start"],
-                "item_tag": item_tag,
-                "category": auction["category"],
-                "rarity": auction["tier"],
+                "item_name": str(auction["item_name"]),
+                "uuid": str(auction["uuid"]),
+                "starting_bid": int(auction["starting_bid"]),
+                "start": str(auction["start"]),
+                "item_tag": decoded_item_info,
+                "category": str(auction["category"]),
+                "rarity": str(auction["tier"]),
                 "reforge": str(reforge),
+                "hpb": str(hpb),
+                "recomb": str(recomb),
                 "enchantments": str(enchants)
             }
             decoded_auctions.append(decoded_auction)
@@ -69,6 +70,8 @@ async def decodeItem(raw_data):
     extra_attributes = first_compound['tag']['ExtraAttributes']
     id_value = extra_attributes['id'].value
     reforge = extra_attributes.get('modifier', None)
+    hpb = extra_attributes.get('hot_potato_count', None)
+    recomb = extra_attributes.get('rarity_upgrades', None)
     enchants = [
         f"ENCHANTMENT_{key.upper()}_{value}"
         for key, value in extra_attributes.get('enchantments', {}).items()
@@ -90,8 +93,8 @@ async def decodeItem(raw_data):
                 result = f"{pet_info_dict['type']};{numeric_tier}"
         except json.JSONDecodeError:
             pass
-    print("Decoded Item:", result, reforge, enchants)
-    return result, reforge, enchants
+    print("Decoded Item:", result, reforge, enchants, recomb, hpb)
+    return result, reforge, enchants, recomb, hpb
 
 async def update_bazaar_pricing():
     response = requests.get("https://api.hypixel.net/v2/skyblock/bazaar")
